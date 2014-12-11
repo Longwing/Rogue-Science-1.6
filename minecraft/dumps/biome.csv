@@ -1,0 +1,187 @@
+ID,Name,Temperature,Rainfall,Spawn Chance,Min Height,Max Height,Types,Class
+0,Ocean,0.5,0.5,0.1,-1.0,0.4,WATER,net.minecraft.world.biome.BiomeGenOcean
+1,Plains,0.8,0.4,0.1,0.1,0.3,PLAINS,net.minecraft.world.biome.BiomeGenPlains
+2,Desert,2.0,0.0,0.1,0.1,0.2,DESERT,net.minecraft.world.biome.BiomeGenDesert
+3,Extreme Hills,0.2,0.3,0.1,0.3,1.5,MOUNTAIN,net.minecraft.world.biome.BiomeGenHills
+4,Forest,0.7,0.8,0.1,0.1,0.3,FOREST,net.minecraft.world.biome.BiomeGenForest
+5,Taiga,0.05,0.8,0.1,0.1,0.4,"FOREST, FROZEN",net.minecraft.world.biome.BiomeGenTaiga
+6,Swampland,0.8,0.9,0.1,-0.2,0.1,SWAMP,net.minecraft.world.biome.BiomeGenSwamp
+7,River,0.5,0.5,0.1,-0.5,0.0,WATER,net.minecraft.world.biome.BiomeGenRiver
+8,Hell,2.0,0.0,0.1,0.1,0.3,NETHER,net.minecraft.world.biome.BiomeGenHell
+9,Sky,0.5,0.5,0.1,0.1,0.3,END,net.minecraft.world.biome.BiomeGenEnd
+10,FrozenOcean,0.0,0.5,0.1,-1.0,0.5,"WATER, FROZEN",net.minecraft.world.biome.BiomeGenOcean
+11,FrozenRiver,0.0,0.5,0.1,-0.5,0.0,"WATER, FROZEN",net.minecraft.world.biome.BiomeGenRiver
+12,Ice Plains,0.0,0.5,0.1,0.1,0.3,FROZEN,net.minecraft.world.biome.BiomeGenSnow
+13,Ice Mountains,0.0,0.5,0.1,0.3,1.3,FROZEN,net.minecraft.world.biome.BiomeGenSnow
+14,MushroomIsland,0.9,1.0,0.1,0.2,1.0,MUSHROOM,net.minecraft.world.biome.BiomeGenMushroomIsland
+15,MushroomIslandShore,0.9,1.0,0.1,-1.0,0.1,"BEACH, MUSHROOM",net.minecraft.world.biome.BiomeGenMushroomIsland
+16,Beach,0.8,0.4,0.1,0.0,0.1,BEACH,net.minecraft.world.biome.BiomeGenBeach
+17,DesertHills,2.0,0.0,0.1,0.3,0.8,DESERT,net.minecraft.world.biome.BiomeGenDesert
+18,ForestHills,0.7,0.8,0.1,0.3,0.7,FOREST,net.minecraft.world.biome.BiomeGenForest
+19,TaigaHills,0.05,0.8,0.1,0.3,0.8,"FOREST, FROZEN",net.minecraft.world.biome.BiomeGenTaiga
+20,Extreme Hills Edge,0.2,0.3,0.1,0.2,0.8,MOUNTAIN,net.minecraft.world.biome.BiomeGenHills
+21,Jungle,1.2,0.9,0.1,0.2,0.4,JUNGLE,net.minecraft.world.biome.BiomeGenJungle
+22,JungleHills,1.2,0.9,0.1,1.8,0.5,JUNGLE,net.minecraft.world.biome.BiomeGenJungle
+40,Mountainous Desert,2.0,0.0,0.1,0.4,1.4,DESERT,extrabiomes.module.summa.biome.BiomeMountainDesert
+42,Mountain Taiga,0.0,0.8,0.1,0.3,1.2,"FOREST, FROZEN",extrabiomes.module.summa.biome.BiomeMountainTaiga
+49,Snow Forest,0.05,0.8,0.1,0.1,0.5,"FOREST, FROZEN",extrabiomes.module.summa.biome.BiomeSnowForest
+53,Wasteland,2.0,0.0,0.1,0.0,0.0,"PLAINS, DESERT",extrabiomes.module.summa.biome.BiomeWasteland
+54,Woodlands,0.7,0.8,0.1,0.2,0.4,FOREST,extrabiomes.module.summa.biome.BiomeWoodlands
+55,Alps Forest,0.5,0.4,0.1,0.2,0.5,"FOREST, MOUNTAIN, FROZEN",biomesoplenty.biomes.BiomeGenAlpsBase
+56,Alps,0.0,0.5,0.1,2.0,3.0,"MOUNTAIN, FROZEN",biomesoplenty.biomes.BiomeGenAlps
+57,Alps Mountainside,0.0,0.5,0.1,1.0,2.0,"MOUNTAIN, FROZEN",biomesoplenty.biomes.BiomeGenAlpsForest
+58,Arctic,0.05,0.5,0.1,0.2,0.2,"FROZEN, WASTELAND",biomesoplenty.biomes.BiomeGenArctic
+59,Autumn Hills,0.5,0.2,0.1,0.5,0.8,"FOREST, HILLS",biomesoplenty.biomes.BiomeGenAutumnHills
+60,Badlands,2.0,0.05,0.1,0.3,0.9,"DESERT, WASTELAND",biomesoplenty.biomes.BiomeGenBadlands
+61,Bamboo Forest,1.2,0.9,0.1,0.2,0.4,"FOREST, JUNGLE",biomesoplenty.biomes.BiomeGenBambooForest
+62,Bayou,0.5,0.9,0.1,0.1,0.3,"SWAMP, WATER",biomesoplenty.biomes.BiomeGenBayou
+63,Birch Forest,0.4,0.3,0.1,0.1,0.3,FOREST,biomesoplenty.biomes.BiomeGenBirchForest
+64,Blessed Bog,2.0,2.0,0.1,0.1,2.0,"SWAMP, MAGICAL",biomesoplenty.biomes.promisedland.BiomeGenPromisedLandSwamp
+65,Bloody Heap,2.0,0.0,0.1,0.1,0.3,NETHER,biomesoplenty.biomes.nether.BiomeGenNetherBlood
+66,Bog,0.8,0.9,0.1,0.3,0.3,"FOREST, SWAMP",biomesoplenty.biomes.BiomeGenBog
+67,Boneyard,2.0,0.0,0.1,0.1,0.3,"WASTELAND, NETHER",biomesoplenty.biomes.nether.BiomeGenNetherBone
+68,Boreal Forest,0.6,0.7,0.1,0.2,1.0,FOREST,biomesoplenty.biomes.BiomeGenBorealForest
+69,Brushland,2.0,0.05,0.1,0.3,0.3,"FOREST, PLAINS, DESERT",biomesoplenty.biomes.BiomeGenBrushland
+70,Canyon,0.8,0.4,0.1,1.5,2.0,"MOUNTAIN, HILLS, DESERT",biomesoplenty.biomes.BiomeGenCanyon
+71,Canyon Ravine,0.8,0.4,0.1,0.3,0.4,"HILLS, DESERT",biomesoplenty.biomes.BiomeGenCanyonRavine
+72,Chaparral,0.8,0.4,0.1,0.3,0.6,PLAINS,biomesoplenty.biomes.BiomeGenChaparral
+73,Cherry Blossom Grove,0.7,0.8,0.1,0.3,0.4,"FOREST, MAGICAL",biomesoplenty.biomes.BiomeGenCherryBlossomGrove
+74,Snowy Coniferous Forest,0.0,0.5,0.1,0.3,0.6,"FOREST, HILLS, FROZEN",biomesoplenty.biomes.BiomeGenConiferousForestSnow
+75,Coniferous Forest,0.5,0.4,0.1,0.4,0.9,"FOREST, HILLS",biomesoplenty.biomes.BiomeGenConiferousForest
+76,Coral Reef,0.5,0.9,0.1,-0.1,0.0,WATER,biomesoplenty.biomes.ocean.BiomeGenOceanCoral
+77,Corrupted Sands,2.0,0.0,0.1,0.1,0.3,"DESERT, NETHER",biomesoplenty.biomes.nether.BiomeGenNetherDesert
+78,Crag,0.4,0.2,0.1,2.0,3.0,"MOUNTAIN, WASTELAND",biomesoplenty.biomes.BiomeGenCrag
+79,Snowy Dead Forest,0.05,0.8,0.1,0.2,0.7,"FOREST, FROZEN",biomesoplenty.biomes.BiomeGenDeadForestSnow
+80,Dead Forest,1.2,0.1,0.1,0.2,0.7,FOREST,biomesoplenty.biomes.BiomeGenDeadForest
+81,Dead Swamp,0.8,0.9,0.1,0.1,0.2,SWAMP,biomesoplenty.biomes.BiomeGenDeadSwamp
+82,Deadlands,2.0,0.05,0.1,0.1,0.5,WASTELAND,biomesoplenty.biomes.BiomeGenDeadlands
+83,Deciduous Forest,0.7,0.8,0.1,0.1,0.3,FOREST,biomesoplenty.biomes.BiomeGenDeciduousForest
+84,Desert,2.0,0.05,0.1,0.2,0.3,DESERT,biomesoplenty.biomes.vanilla.BiomeGenDesertNew
+85,Dunes,2.0,0.05,0.1,0.5,1.3,"HILLS, DESERT, BEACH",biomesoplenty.biomes.BiomeGenDunes
+86,Extreme Hills,0.2,0.3,0.1,1.0,2.0,"MOUNTAIN, HILLS",biomesoplenty.biomes.vanilla.BiomeGenHillsNew
+87,Fen,0.4,0.4,0.1,0.2,0.4,"FOREST, SWAMP",biomesoplenty.biomes.BiomeGenFen
+88,Field,0.6,0.7,0.1,0.3,0.3,PLAINS,biomesoplenty.biomes.BiomeGenField
+89,Forest,0.7,0.8,0.1,0.1,0.3,FOREST,biomesoplenty.biomes.vanilla.BiomeGenForestNew
+90,ForestHills,0.7,0.8,0.1,0.8,1.0,"FOREST, HILLS",biomesoplenty.biomes.vanilla.BiomeGenForestNew
+91,Forested Field,0.6,0.7,0.1,0.3,0.3,"FOREST, PLAINS",biomesoplenty.biomes.BiomeGenFieldForest
+92,Frost Forest,0.0,0.5,0.1,0.3,0.4,"FOREST, FROZEN",biomesoplenty.biomes.BiomeGenFrostForest
+93,Fungi Forest,0.9,1.0,0.1,0.2,0.5,"FOREST, SWAMP, MUSHROOM, MAGICAL",biomesoplenty.biomes.BiomeGenFungiForest
+94,Garden,0.7,0.8,0.1,0.3,0.4,"PLAINS, MAGICAL",biomesoplenty.biomes.BiomeGenGarden
+95,Glacier,0.0,0.5,0.1,0.4,0.8,"HILLS, FROZEN",biomesoplenty.biomes.BiomeGenGlacier
+96,Grassland,0.7,0.7,0.1,0.2,0.5,"PLAINS, HILLS, SWAMP",biomesoplenty.biomes.BiomeGenGrassland
+97,Gravel Beach,0.2,0.8,0.1,0.0,0.1,BEACH,biomesoplenty.biomes.beach.BiomeGenBeachGravel
+98,Grove,0.4,0.8,0.1,0.3,0.4,"FOREST, PLAINS",biomesoplenty.biomes.BiomeGenGrove
+99,Heathland,0.8,0.1,0.1,0.3,0.4,PLAINS,biomesoplenty.biomes.BiomeGenHeathland
+100,Highland,0.5,0.5,0.1,0.9,1.9,"MOUNTAIN, HILLS",biomesoplenty.biomes.BiomeGenHighland
+101,Hot Springs,0.5,0.7,0.1,0.2,0.5,"FOREST, HILLS, WATER",biomesoplenty.biomes.BiomeGenHotSprings
+102,Icy Hills,0.0,0.5,0.1,0.3,0.8,"HILLS, FROZEN",biomesoplenty.biomes.BiomeGenIcyHills
+103,Jade Cliffs,0.5,0.1,0.1,0.5,1.5,"FOREST, MOUNTAIN",biomesoplenty.biomes.BiomeGenJadeCliffs
+104,Jungle,1.2,0.9,0.1,0.4,0.5,JUNGLE,biomesoplenty.biomes.vanilla.BiomeGenJungleNew
+105,JungleHills,1.2,0.9,0.1,0.9,1.2,"HILLS, JUNGLE",biomesoplenty.biomes.vanilla.BiomeGenJungleNew
+106,Kelp Forest,0.5,0.9,0.1,-0.4,-0.1,"FOREST, WATER",biomesoplenty.biomes.ocean.BiomeGenOceanKelp
+107,Lavender Fields,0.6,0.7,0.1,0.3,0.3,PLAINS,biomesoplenty.biomes.BiomeGenLavenderFields
+108,Lush Desert,0.8,0.2,0.1,0.2,0.9,"FOREST, DESERT",biomesoplenty.biomes.BiomeGenLushDesert
+109,Lush Swamp,0.7,1.0,0.1,0.2,0.3,"SWAMP, WATER",biomesoplenty.biomes.BiomeGenLushSwamp
+110,Majestic Meadow,2.0,2.0,0.1,0.1,2.0,"PLAINS, MAGICAL",biomesoplenty.biomes.promisedland.BiomeGenPromisedLandPlains
+111,Mangrove,0.8,0.9,0.1,0.1,0.3,"FOREST, WATER",biomesoplenty.biomes.BiomeGenMangrove
+112,Maple Woods,0.2,0.8,0.1,0.3,0.6,FOREST,biomesoplenty.biomes.BiomeGenMapleWoods
+113,Marsh,0.5,0.9,0.1,0.2,0.2,"SWAMP, WATER",biomesoplenty.biomes.BiomeGenMarsh
+114,Meadow Forest,0.7,0.7,0.1,0.1,0.3,"FOREST, PLAINS",biomesoplenty.biomes.BiomeGenMeadowForest
+115,Meadow,0.7,0.7,0.1,0.1,0.3,"FOREST, PLAINS",biomesoplenty.biomes.BiomeGenMeadow
+116,Mesa,2.0,0.05,0.1,0.4,2.0,"MOUNTAIN, DESERT, WASTELAND",biomesoplenty.biomes.BiomeGenMesa
+117,Moor,0.5,1.0,0.1,0.7,0.8,"HILLS, SWAMP",biomesoplenty.biomes.BiomeGenMoor
+118,Mountain,0.5,0.1,0.1,1.0,1.5,MOUNTAIN,biomesoplenty.biomes.BiomeGenMountain
+119,Mystic Grove,0.9,1.0,0.1,0.3,0.8,"FOREST, MAGICAL",biomesoplenty.biomes.BiomeGenMysticGrove
+120,Nether,2.0,0.0,0.1,0.1,0.3,NETHER,biomesoplenty.biomes.nether.BiomeGenNetherBase
+150,Boreal Forest,0.25,0.8,0.1,0.1,0.3,FOREST,net.minecraft.world.biome.BiomeGenTaiga
+151,Gravel Beach,0.25,0.4,0.1,0.0,0.1,BEACH,ttftcuts.atg.biome.ATGBiomeGenGravelBeach
+152,Savanna,1.8,0.2,0.1,0.1,0.3,"PLAINS, DESERT",ttftcuts.atg.biome.ATGBiomeGenSavanna
+153,Shrubland,0.77,0.53,0.1,0.1,0.3,PLAINS,ttftcuts.atg.biome.ATGBiomeGenShrubland
+154,Snowy Beach,0.05,0.4,0.1,0.0,0.1,"FROZEN, BEACH",ttftcuts.atg.biome.ATGBiomeGenGravelBeach
+155,Rocky Steppe,0.2,0.1,0.1,0.3,0.5,"PLAINS, WASTELAND",ttftcuts.atg.biome.ATGBiomeGenSteppe
+156,Tropical Shrubland,1.5,0.75,0.1,0.1,0.3,"FOREST, JUNGLE",ttftcuts.atg.biome.ATGBiomeGenTropicalShrubland
+157,Tundra,0.05,0.65,0.1,0.1,0.3,"FROZEN, WASTELAND",ttftcuts.atg.biome.ATGBiomeGenTundra
+158,Volcano,2.0,0.0,0.1,0.9,1.0,"MOUNTAIN, WASTELAND",ttftcuts.atg.biome.ATGBiomeGenVolcano
+159,Woodland,0.73,0.67,0.1,0.1,0.3,FOREST,ttftcuts.atg.biome.ATGBiomeGenWoodland
+167,Alpine,0.0,0.1,0.1,1.3,2.1,"FOREST, MOUNTAIN, FROZEN",extrabiomes.module.summa.biome.BiomeAlpine
+168,Autumn Woods,0.7,0.8,0.1,0.2,0.8,FOREST,extrabiomes.module.summa.biome.BiomeAutumnWoods
+170,Extreme Jungle,1.2,0.9,0.1,2.1,2.3,"MOUNTAIN, JUNGLE",extrabiomes.module.summa.biome.BiomeExtremeJungle
+171,Forested Hills,0.59999996,0.8,0.1,0.2,1.8,"FOREST, MOUNTAIN",extrabiomes.module.summa.biome.BiomeForestedHills
+172,Forested Island,0.8,0.8,0.1,-0.8,0.8,"FOREST, WATER",extrabiomes.module.summa.biome.BiomeForestedIsland
+175,Green Swamplands,0.7,0.9,0.1,-0.2,0.1,SWAMP,extrabiomes.module.summa.biome.BiomeGreenSwamp
+180,Oasis,0.9,0.7,0.1,0.3,0.4,"DESERT, JUNGLE",biomesoplenty.biomes.BiomeGenOasis
+181,Oceanic Abyss,0.5,0.9,0.1,-1.65,0.0,WATER,biomesoplenty.biomes.ocean.BiomeGenOceanAbyss
+182,Ominous Woods,0.8,0.9,0.1,0.1,0.3,MAGICAL,biomesoplenty.biomes.BiomeGenOminousWoods
+183,Orchard,0.8,0.4,0.1,0.1,0.3,"FOREST, PLAINS",biomesoplenty.biomes.BiomeGenOrchard
+184,Origin Valley,0.7,0.8,0.1,0.2,0.6,FOREST,biomesoplenty.biomes.BiomeGenOriginValley
+185,Outback,0.8,0.05,0.1,0.3,0.4,"PLAINS, DESERT",biomesoplenty.biomes.BiomeGenOutback
+186,Overgrown Beach,0.8,0.5,0.1,0.0,0.1,"FOREST, BEACH",biomesoplenty.biomes.beach.BiomeGenBeachOvergrown
+187,Overgrown Greens,0.8,0.8,0.1,0.3,0.4,"PLAINS, JUNGLE",biomesoplenty.biomes.BiomeGenOvergrownGreens
+188,Pasture,0.8,0.4,0.1,0.3,0.4,PLAINS,biomesoplenty.biomes.BiomeGenPasture
+189,Pasture Meadow,0.8,0.4,0.1,0.3,0.4,"FOREST, PLAINS",biomesoplenty.biomes.BiomeGenPastureMeadow
+190,Phantasmagoric Inferno,2.0,0.0,0.1,0.1,0.3,NETHER,biomesoplenty.biomes.nether.BiomeGenNetherLava
+191,Plains,0.8,0.4,0.1,0.1,0.3,PLAINS,biomesoplenty.biomes.vanilla.BiomeGenPlainsNew
+192,Polar,0.0,0.5,0.1,-0.5,0.0,"WATER, FROZEN",biomesoplenty.biomes.BiomeGenPolar
+193,Prairie,0.9,0.6,0.1,0.3,0.4,PLAINS,biomesoplenty.biomes.BiomeGenPrairie
+194,Quagmire,0.8,0.9,0.1,0.2,0.3,"SWAMP, WASTELAND",biomesoplenty.biomes.BiomeGenQuagmire
+195,Rainforest,2.0,2.0,0.1,0.2,1.8,"FOREST, HILLS, JUNGLE",biomesoplenty.biomes.BiomeGenRainforest
+196,Redwood Forest,0.8,0.4,0.1,0.3,0.4,FOREST,biomesoplenty.biomes.BiomeGenRedwoodForest
+197,Sacred Springs,1.2,0.9,0.1,0.4,1.2,"FOREST, MOUNTAIN, MAGICAL",biomesoplenty.biomes.BiomeGenSacredSprings
+198,Savanna,1.5,0.1,0.1,0.3,0.4,"PLAINS, DESERT",biomesoplenty.biomes.BiomeGenSavanna
+199,Savanna Plateau,1.5,0.1,0.1,0.9,0.9,"PLAINS, HILLS, DESERT",biomesoplenty.biomes.BiomeGenSavannaPlateau
+200,Scrubland,1.2,0.05,0.1,0.3,0.5,"PLAINS, DESERT",biomesoplenty.biomes.BiomeGenScrubland
+201,Seasonal Forest,0.7,0.8,0.1,0.3,0.7,FOREST,biomesoplenty.biomes.BiomeGenSeasonalForest
+202,Seasonal Spruce Forest,0.7,0.8,0.1,0.6,0.9,FOREST,biomesoplenty.biomes.BiomeGenSeasonalSpruceForest
+203,Shield,0.5,0.8,0.1,0.1,0.3,"FOREST, WATER",biomesoplenty.biomes.BiomeGenShield
+204,Shore,0.8,0.4,0.1,-1.0,0.4,WATER,biomesoplenty.biomes.BiomeGenShore
+205,Shrubland,0.6,0.05,0.1,0.2,0.2,PLAINS,biomesoplenty.biomes.BiomeGenShrubland
+206,Silkglades,0.5,0.9,0.1,0.3,0.3,"SWAMP, WASTELAND",biomesoplenty.biomes.BiomeGenSilkglades
+207,Sludgepit,0.8,0.9,0.1,0.1,0.3,"FOREST, SWAMP, WASTELAND",biomesoplenty.biomes.BiomeGenSludgepit
+208,Spruce Woods,0.6,0.7,0.1,0.1,0.3,FOREST,biomesoplenty.biomes.BiomeGenSpruceWoods
+209,Steppe,2.0,0.05,0.1,0.3,0.4,"PLAINS, DESERT",biomesoplenty.biomes.BiomeGenSteppe
+210,Sublime Shrubland,2.0,2.0,0.1,0.1,2.0,"FOREST, PLAINS, MAGICAL",biomesoplenty.biomes.promisedland.BiomeGenPromisedLandShrub
+211,Swampland,0.8,0.9,0.1,0.1,0.3,"SWAMP, WATER",biomesoplenty.biomes.vanilla.BiomeGenSwampNew
+212,Taiga,0.05,0.8,0.1,0.3,0.5,"FOREST, FROZEN",biomesoplenty.biomes.vanilla.BiomeGenTaigaNew
+213,TaigaHills,0.05,0.8,0.1,0.8,1.0,"FOREST, HILLS, FROZEN",biomesoplenty.biomes.vanilla.BiomeGenTaigaNew
+214,Temperate Rainforest,0.7,0.8,0.1,0.2,0.6,"FOREST, HILLS",biomesoplenty.biomes.BiomeGenTemperateRainforest
+215,Thick Ominous Woods,0.8,0.9,0.1,0.4,0.8,MAGICAL,biomesoplenty.biomes.BiomeGenOminousWoodsThick
+216,Thick Shrubland,0.6,0.05,0.1,0.2,0.2,PLAINS,biomesoplenty.biomes.BiomeGenShrublandForest
+217,Thicket,0.6,0.2,0.1,0.2,0.2,"FOREST, PLAINS",biomesoplenty.biomes.BiomeGenThicket
+218,Thinned Mystic Grove,0.9,1.0,0.1,0.1,0.3,"FOREST, MAGICAL",biomesoplenty.biomes.BiomeGenMysticGroveThin
+219,Thinned Pasture,0.8,0.4,0.1,0.3,0.4,PLAINS,biomesoplenty.biomes.BiomeGenPastureThin
+220,Thinned Timber,0.7,0.8,0.1,0.3,0.4,FOREST,biomesoplenty.biomes.BiomeGenTimberThin
+221,Timber,0.7,0.8,0.1,0.3,0.4,FOREST,biomesoplenty.biomes.BiomeGenTimber
+222,Tropical Rainforest,1.2,0.9,0.1,0.3,0.7,JUNGLE,biomesoplenty.biomes.BiomeGenTropicalRainforest
+223,Tropics,2.0,2.0,0.1,0.0,0.4,"WATER, JUNGLE",biomesoplenty.biomes.BiomeGenTropics
+224,Tropics Mountain,2.0,2.0,0.1,0.7,1.2,"WATER, JUNGLE",biomesoplenty.biomes.BiomeGenTropics
+225,Tundra,0.2,0.8,0.1,0.1,0.3,"FROZEN, WASTELAND",biomesoplenty.biomes.BiomeGenTundra
+226,Undergarden,2.0,0.0,0.1,0.1,0.3,"JUNGLE, NETHER",biomesoplenty.biomes.nether.BiomeGenNetherGarden
+227,Volcano,2.0,0.05,0.1,0.6,1.2,"MOUNTAIN, WASTELAND",biomesoplenty.biomes.BiomeGenVolcano
+228,Wasteland,2.0,0.05,0.1,0.3,0.4,WASTELAND,biomesoplenty.biomes.BiomeGenWasteland
+229,Wetland,0.8,0.9,0.1,0.3,0.5,"FOREST, SWAMP",biomesoplenty.biomes.BiomeGenWetland
+230,Wonderous Woods,2.0,2.0,0.1,0.1,2.0,"FOREST, MAGICAL",biomesoplenty.biomes.promisedland.BiomeGenPromisedLandForest
+231,Woodland,1.7,0.2,0.1,0.3,0.7,FOREST,biomesoplenty.biomes.BiomeGenWoodland
+232,WyvernBiome,0.5,0.5,0.1,0.3,1.5,"FOREST, MOUNTAIN",drzhark.mocreatures.dimension.BiomeGenWyvernLair
+233,Eerie,0.5,0.5,0.1,0.1,0.3,"PLAINS, MAGICAL",thaumcraft.common.lib.world.biomes.BiomeGenEerie
+234,Magical Forest,0.7,0.6,0.1,0.1,0.3,"FOREST, MAGICAL",thaumcraft.common.lib.world.biomes.BiomeGenMagicalForest
+235,Tainted Land,0.5,0.5,0.1,0.1,0.3,"WASTELAND, MAGICAL",thaumcraft.common.lib.world.biomes.BiomeGenTaint
+236,Twilight Clearing,0.8,0.4,0.12,0.01,0.0,PLAINS,twilightforest.biomes.TFBiomeClearing
+237,Clearing Border,0.5,0.5,0.12,0.1,0.3,FOREST,twilightforest.biomes.TFBiomeTwilightForest
+238,Dark Forest,0.7,0.8,0.12,0.05,0.05,FOREST,twilightforest.biomes.TFBiomeDarkForest
+239,Lots of Mushrooms,0.8,1.0,0.12,0.15,0.4,"FOREST, MUSHROOM",twilightforest.biomes.TFBiomeDeepMushrooms
+240,Enchanted Forest,0.5,0.5,0.12,0.1,0.3,"FOREST, MAGICAL",twilightforest.biomes.TFBiomeEnchantedForest
+241,Fire Swamp,1.0,0.4,0.12,-0.25,0.0,"FOREST, SWAMP, WASTELAND",twilightforest.biomes.TFBiomeFireSwamp
+242,Glacier,0.0,0.1,0.12,0.1,0.3,FROZEN,twilightforest.biomes.TFBiomeGlacier
+243,Highlands,0.5,0.3,0.12,2.5,0.4,"FOREST, MOUNTAIN",twilightforest.biomes.TFBiomeHighlands
+244,Twilight Lake,0.66,1.0,0.12,-1.9,0.5,"FOREST, WATER",twilightforest.biomes.TFBiomeTwilightLake
+245,Lake Border,0.5,0.5,0.12,0.1,0.3,FOREST,twilightforest.biomes.TFBiomeTwilightForest
+246,Major Feature,0.5,0.5,0.12,0.1,0.3,FOREST,twilightforest.biomes.TFBiomeCenter
+247,Minor Feature,0.5,0.5,0.12,0.1,0.3,FOREST,twilightforest.biomes.TFBiomeCenter2
+248,Mushrooms,0.5,0.8,0.12,0.1,0.3,"FOREST, MUSHROOM",twilightforest.biomes.TFBiomeMushrooms
+249,Snowy Forest,0.125,0.9,0.12,0.1,0.3,"FOREST, FROZEN",twilightforest.biomes.TFBiomeSnow
+250,Twilight Stream,0.5,1.0,0.12,-0.75,-0.1,"FOREST, WATER",twilightforest.biomes.TFBiomeStream
+251,Twilight Swamp,0.8,0.9,0.12,-0.25,0.0,"FOREST, SWAMP",twilightforest.biomes.TFBiomeSwamp
+252,Twilight Forest,0.5,0.5,0.12,0.1,0.3,FOREST,twilightforest.biomes.TFBiomeTwilightForest
+253,Dense Twilight Forest,0.7,0.8,0.12,0.15,0.4,FOREST,twilightforest.biomes.TFBiomeTwilightForestVariant
+254,Limbo,0.5,0.5,1.0E-5,0.1,0.3,PLAINS,StevenDimDoors.mod_pocketDim.world.BiomeGenLimbo
+255,Pocket Dimension,0.5,0.5,0.1,0.1,0.3,PLAINS,StevenDimDoors.mod_pocketDim.world.BiomeGenPocket

@@ -1,0 +1,14 @@
+# *** CUSTOM DICTIONARY ***
+# Here you can define aliases for mod items and blocks.
+#
+# To prevent confussion: You CAN'T create new blocks and items with this file.
+# They are added by other mods. This file only lets you define aliases for these items.
+#
+# This file will be read right after dictionary.txt to make sure
+# all your following recipes (in other files) can access these aliases.
+#
+# Example alias definition:
+# silmarilShoes = 7859
+# rubyGem = 9958,13  where 9958 is ID, 13 is DAMAGE
+#
+

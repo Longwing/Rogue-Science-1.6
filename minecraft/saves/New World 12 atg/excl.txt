@@ -1,0 +1,4 @@
+excl=106;PirateShip.tml
+excl=0;PirateShip.tml
+excl=153;GoldWell.tml
+excl=0;SkyCastle.tml

@@ -1,0 +1,32 @@
+=== CustomRecipes ===
+ *** Created by MightyPork *** 
+ *** Developed by TheBoo ***
+
+Wed Dec 10 22:51:32 EST 2014
+
+Save your recipe files into .minecraft/mods/customrecipes.
+
+Loading dictionary.txt
+Loading custom dictionary: dictionary_custom.txt
+Started to load recipes at E:\Minecraft\MultiMC5\instances\Rogue Science 1.6\minecraft/mods/customrecipes/dictionary_custom.txt
+Adding all the items localized names as dictionary entries...
+Loading recipes: longwingtweaks.txt
+Started to load recipes at E:\Minecraft\MultiMC5\instances\Rogue Science 1.6\minecraft/mods/customrecipes/longwingtweaks.txt
+Loading Recipes syntaxes at E:\Minecraft\MultiMC5\instances\Rogue Science 1.6\minecraft/mods/customrecipes/longwingtweaks.txt
+Found smelting syntax in E:\Minecraft\MultiMC5\instances\Rogue Science 1.6\minecraft/mods/customrecipes/longwingtweaks.txt
+Loading Recipes syntaxes at E:\Minecraft\MultiMC5\instances\Rogue Science 1.6\minecraft/mods/customrecipes/longwingtweaks.txt
+Found smelting syntax in E:\Minecraft\MultiMC5\instances\Rogue Science 1.6\minecraft/mods/customrecipes/longwingtweaks.txt
+Loading Recipes syntaxes at E:\Minecraft\MultiMC5\instances\Rogue Science 1.6\minecraft/mods/customrecipes/longwingtweaks.txt
+Found smelting syntax in E:\Minecraft\MultiMC5\instances\Rogue Science 1.6\minecraft/mods/customrecipes/longwingtweaks.txt
+Loading Recipes syntaxes at E:\Minecraft\MultiMC5\instances\Rogue Science 1.6\minecraft/mods/customrecipes/longwingtweaks.txt
+Found shapeless syntax in E:\Minecraft\MultiMC5\instances\Rogue Science 1.6\minecraft/mods/customrecipes/longwingtweaks.txt
+LOADED RECIPE
+Loading Recipes syntaxes at E:\Minecraft\MultiMC5\instances\Rogue Science 1.6\minecraft/mods/customrecipes/longwingtweaks.txt
+Found fuel syntax in E:\Minecraft\MultiMC5\instances\Rogue Science 1.6\minecraft/mods/customrecipes/longwingtweaks.txt
+Loading Recipes syntaxes at E:\Minecraft\MultiMC5\instances\Rogue Science 1.6\minecraft/mods/customrecipes/longwingtweaks.txt
+Found smelting syntax in E:\Minecraft\MultiMC5\instances\Rogue Science 1.6\minecraft/mods/customrecipes/longwingtweaks.txt
+Loading Recipes syntaxes at E:\Minecraft\MultiMC5\instances\Rogue Science 1.6\minecraft/mods/customrecipes/longwingtweaks.txt
+Found smelting syntax in E:\Minecraft\MultiMC5\instances\Rogue Science 1.6\minecraft/mods/customrecipes/longwingtweaks.txt
+Recipes loaded.
+
+

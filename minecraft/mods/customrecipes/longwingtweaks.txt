@@ -1,0 +1,7 @@
+smelting ( rottenFlesh ) > ( leather )
+smelting ( dirt ) > ( clay )
+smelting ( wheat ) > ( bread )
+shapeless ( coal ) > ( inkSack )
+fuel ( netherrack,100 )
+smelting (SpiderEye) > (slimeball,1)
+shaped ( string + null + string / null + string + null / string + null + string) > (cobweb,5)

@@ -1,0 +1,191 @@
+{
+    "id": "1.6.4",
+    "libraries": [
+        {
+            "MMC-absoluteUrl": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.6.4-9.11.1.965/forge-1.6.4-9.11.1.965-universal.jar",
+            "name": "net.minecraftforge:minecraftforge:9.11.1.965",
+            "url": "http://files.minecraftforge.net/maven/"
+        },
+        {
+            "name": "net.minecraft:launchwrapper:1.8"
+        },
+        {
+            "name": "org.ow2.asm:asm-all:4.1"
+        },
+        {
+            "MMC-hint": "forge-pack-xz",
+            "name": "org.scala-lang:scala-library:2.10.2",
+            "url": "http://files.minecraftforge.net/maven/"
+        },
+        {
+            "MMC-hint": "forge-pack-xz",
+            "name": "org.scala-lang:scala-compiler:2.10.2",
+            "url": "http://files.minecraftforge.net/maven/"
+        },
+        {
+            "name": "lzma:lzma:0.0.1"
+        },
+        {
+            "name": "net.sf.jopt-simple:jopt-simple:4.5"
+        },
+        {
+            "name": "com.paulscode:codecjorbis:20101023"
+        },
+        {
+            "name": "com.paulscode:codecwav:20101023"
+        },
+        {
+            "name": "com.paulscode:libraryjavasound:20101123"
+        },
+        {
+            "name": "com.paulscode:librarylwjglopenal:20100824"
+        },
+        {
+            "name": "com.paulscode:soundsystem:20120107"
+        },
+        {
+            "name": "argo:argo:2.25_fixed"
+        },
+        {
+            "name": "org.bouncycastle:bcprov-jdk15on:1.47"
+        },
+        {
+            "name": "com.google.guava:guava:14.0"
+        },
+        {
+            "name": "org.apache.commons:commons-lang3:3.1"
+        },
+        {
+            "name": "commons-io:commons-io:2.4"
+        },
+        {
+            "name": "net.java.jinput:jinput:2.0.5"
+        },
+        {
+            "name": "net.java.jutils:jutils:1.0.0"
+        },
+        {
+            "name": "com.google.code.gson:gson:2.2.2"
+        },
+        {
+            "name": "org.lwjgl.lwjgl:lwjgl:2.9.0",
+            "rules": [
+                {
+                    "action": "allow"
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "osx",
+                        "version": "^10\\.5\\.\\d$"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.0",
+            "rules": [
+                {
+                    "action": "allow"
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "osx",
+                        "version": "^10\\.5\\.\\d$"
+                    }
+                }
+            ]
+        },
+        {
+            "extract": {
+                "exclude": [
+                    "META-INF/"
+                ]
+            },
+            "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.0",
+            "natives": {
+                "linux": "natives-linux",
+                "osx": "natives-osx",
+                "windows": "natives-windows"
+            },
+            "rules": [
+                {
+                    "action": "allow"
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "osx",
+                        "version": "^10\\.5\\.\\d$"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "org.lwjgl.lwjgl:lwjgl:2.9.1-nightly-20130708-debug3",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx",
+                        "version": "^10\\.5\\.\\d$"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.1-nightly-20130708-debug3",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx",
+                        "version": "^10\\.5\\.\\d$"
+                    }
+                }
+            ]
+        },
+        {
+            "extract": {
+                "exclude": [
+                    "META-INF/"
+                ]
+            },
+            "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.1-nightly-20130708-debug3",
+            "natives": {
+                "linux": "natives-linux",
+                "osx": "natives-osx",
+                "windows": "natives-windows"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx",
+                        "version": "^10\\.5\\.\\d$"
+                    }
+                }
+            ]
+        },
+        {
+            "extract": {
+                "exclude": [
+                    "META-INF/"
+                ]
+            },
+            "name": "net.java.jinput:jinput-platform:2.0.5",
+            "natives": {
+                "linux": "natives-linux",
+                "osx": "natives-osx",
+                "windows": "natives-windows"
+            }
+        }
+    ],
+    "mainClass": "net.minecraft.launchwrapper.Launch",
+    "minecraftArguments": "--username ${auth_player_name} --session ${auth_session} --version ${version_name} --gameDir ${game_directory} --assetsDir ${game_assets} --tweakClass cpw.mods.fml.common.launcher.FMLTweaker",
+    "minimumLauncherVersion": 4,
+    "releaseTime": "2013-09-19T17:52:37+02:00",
+    "time": "2013-09-19T17:52:37+02:00",
+    "type": "release"
+}

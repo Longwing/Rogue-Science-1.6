@@ -1,0 +1,10 @@
+# Configuration file
+
+version_check_tracker {
+    S:CrystalWing=<html>
+    S:FloatingRuins=<html>
+    S:Treecapitator=<html>
+    S:bspkrsCore=<html>
+}
+
+
