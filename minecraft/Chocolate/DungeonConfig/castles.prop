@@ -3,8 +3,8 @@
 #Will try to find the highest position to spawn, better avoid any biome with hills
 #Needs at least 20 blocks underground, so it not recommended to use in biomes with height lower than 25
 
-#biomes = Plains, Ice Plains, Forest, Desert
-biomes = Plains, Ice Plains, Forest, Desert, Brushland, Field, Grassland, Meadow, Pasture, Prairie, Savanna, Scrubland, Shrubland, Tundra, Autumn Woods, Bamboo Forest, Birch Forest, Boreal Forest, Cherry Blossom Grove, Deciduous Forest,
+#Default biomes = Plains, Ice Plains, Forest, Desert
+biomes = Forested Field, Grove, Meadow Forest, Meadow, Orchard, Pasture Meadow, Thicket, Brushland, Sublime Shrubland, Ice Plains, Plains, Chaparral, Field, Heathland, Lavender Fields, Shrubland, Pasture, Plains, Prairie, Shrubland, Thick Shrubland, Thinned Pasture, Wasteland, Savanna, Outback, Savanna, Scrubland, Steppe, Garden, Majestic Meadow, Forest, ForestHills, Woodlands, Birch Forest, Boreal Forest, Dead Forest, Deciduous Forest, Forest, Maple Woods, Boreal Forest, Woodland, Autumn Woods, Origin Valley, Seasonal Forest, Seasonal Spruce Forest, Spruce Woods, Thinned Timber, Timber, Woodland, Lush Desert, Taiga, TaigaHills, Mountain Taiga, Snow Forest, Snowy Dead Forest, Frost Forest, Taiga, Cherry Blossom Grove, Mystic Grove, Thinned Mystic Grove, Wonderous Woods, Desert, DesertHills, Mountainous Desert, Desert, Badlands, Ice Plains, Arctic, Tundra, Tundra
 
 #chance: define the ratio at wich the dungeon spawns, if set to 0 the dungeon will be disabled.
 #The formula goes like that: every 5 chunks there is 1 between the number set to chance probabilities to spawn a dungeon.

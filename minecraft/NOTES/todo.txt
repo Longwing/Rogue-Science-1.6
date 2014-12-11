@@ -1,0 +1,49 @@
+Test if Better Dungeons mobs are underground and properly hostile to a non-creative player.
+
+You need an Item/Block ID dump from your modpack. Look for conflicts and correct them.
+
+You should add some mod items to the Better Dungeons chests. Does hexxit do that? Yes, hexxit has manual additions to the chests, look to them for ideas.
+
+Confirm that thaumcraft nodes/ores spawn in all chunks (creative mode the "I can see nodes" item).
+
+Feeling ambitious? Add Extrabiomes XL's biomes to Chocolate Quest's configs.
+
+More project Zulu tweaks would be a good idea...
+
+#######
+#Done
+#######
+
+disable BOP redwoods, not that interesting
+disable timber, also kinda dull
+
+Too many armadillos
+and too many penguins
+
+Whisps need to be much rarer
+
+reduce the number of sandworms
+
+I've set up the twilight forest biomes in their own biome groups. Everything else is in an attribute-based biome group. In theory, this should create cross-pollination in mixed biomes (forest and cold, for example, should draw from both attribute sets).
+
+I've blacklisted twilight forest in the updated config file. Theoretically, this should cause Twilight Forest to spawn normally (I think?)
+
+Chocolate has a boader biome group definition.
+
+Same with Project Zulu, you need to define biomes for the spawning of structures.
+
+Ruins mod needs backups removed
+
+Ruins mod needs an altered "Wasteland" setup to create your wasteland mega cities.
+
+A backup of the live test install is needed.
+
+Updated/revised configs need to be transferred to the live test install.
+
+Test Twilight Forest spawning
+
+Disable Snowy rainforest and Temperate rainforest in XL
+
+Undergarden is labeld as a forest or something?
+
+We need to settle on the tall tree biomes. There's too many in the game right now.
