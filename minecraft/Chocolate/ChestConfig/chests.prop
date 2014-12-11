@@ -5,14 +5,31 @@
 #item_damage: items metadata, by default 0
 #item_weight: the chance for the item to spawn (by default 1= uncommon, 100= common)
 
-saddle = 329,1,0,10
+saddle = 329,1,0,50
 iron = 265,3,0,10
 gold = 266,3,0,5
-wheat = 296,9,0,30
-clock= 347,1,0,10
+clock = 347,1,0,10
 gunpowder = 289,3,0,80
-leather= 334,5,0,80
+leather = 334,5,0,80
 torch = 50,10,0,100
-arrow= 262,16,0,80
-cocoa= 351,2,3,10
-cookie= 357,3,0,20
+arrow = 262,16,0,80
+cocoa = 351,2,3,10
+cookie = 357,3,0,20
+emerald = 388,3,0,100
+thaumium = 25356,4,2,50
+diamond = 264,3,0,60
+enderPearl = 368,5,0,60
+SearedBricks=1474,16,2,50
+StableFabric=5928,3,0,10
+FabricofReality=4093,6,0,20
+NetherQuartz=406,16,0,20
+BlockofRedstone=152,2,0,50
+WaterBottle=373,16,0,70
+BlazePowder=377,1,0,50
+MagmaCream=378,1,0,50
+InkSac=351,1,0,50
+TNT=46,3,0,50
+LapisLazuliBlock=22,1,0,20
+Slimeball=341,16,0,50
+GlowstoneDust=348,16,0,50
+FinderCompass=4612,1,0,100

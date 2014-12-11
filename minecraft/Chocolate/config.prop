@@ -27,7 +27,7 @@ exporterBlockID = 251
 
 #Misc.
 #Number of mobs spawned on one use spawners, if set to less than 0 will spawn only vanilla monsters.
-numMobsPerSpawner = 1
+numMobsPerSpawner = 2
 defaultMobSeparation = 1000
 
 #Generate dungeons on flat maps(basically mineshafts and floating dungeons)
