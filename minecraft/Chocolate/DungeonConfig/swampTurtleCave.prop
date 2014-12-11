@@ -2,7 +2,7 @@
 #biomes = Extreme Hills
 #Will spawn at y = 5
 
-biomes = Swampland
+biomes = Bog, Fen, Wetland, Fungi Forest, Sludgepit, Moor, Grassland, Swampland, Dead Swamp, Green Swamplands, Blessed Bog, Quagmire, Silkglades, Bayou, Lush Swamp, Marsh, Swampland
 
 #chance define the ratio at wich the dungeon spawn, if set to 0 the dungeon will be disabled.
 #The formula goes like that: every 5 chunks there is 1 between the number set to chance probabilities to spawn a dungeon.

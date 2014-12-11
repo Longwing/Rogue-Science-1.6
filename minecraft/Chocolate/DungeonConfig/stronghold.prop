@@ -2,7 +2,7 @@
 #biomes = Taiga
 #Will spawn in the highest position
 
-biomes = Taiga
+biomes = Forested Field, Grove, Meadow Forest, Meadow, Orchard, Pasture Meadow, Thicket, Brushland, Sublime Shrubland, Ice Plains, Plains, Chaparral, Field, Heathland, Lavender Fields, Shrubland, Pasture, Plains, Prairie, Shrubland, Thick Shrubland, Thinned Pasture, Garden, Majestic Meadow, Forest, ForestHills, Woodlands, Birch Forest, Boreal Forest, Dead Forest, Deciduous Forest, Forest, Maple Woods, Boreal Forest, Woodland, Autumn Woods, Origin Valley, Seasonal Forest, Seasonal Spruce Forest, Spruce Woods, Thinned Timber, Timber, Woodland, Taiga, TaigaHills, Mountain Taiga, Snow Forest, Snowy Dead Forest, Frost Forest, Taiga, Cherry Blossom Grove, Mystic Grove, Thinned Mystic Grove, Wonderous Woods, Ice Plains, Arctic, Tundra, Tundra
 
 #chance define the ratio at wich the dungeon spawn, if set to 0 the dungeon will be disabled.
 #The formula goes like that: every 5 chunks there is 1 between the number set to chance probabilities to spawn a dungeon.

@@ -4,7 +4,7 @@
 #Needs at least 20 blocks underground, so it not recommended to use in biomes with height lower than 25
 
 #biomes = Plains
-biomes = Plains
+biomes = Forested Field, Grove, Meadow Forest, Meadow, Orchard, Pasture Meadow, Thicket, Brushland, Sublime Shrubland, Plains, Chaparral, Field, Heathland, Lavender Fields, Shrubland, Pasture, Plains, Prairie, Shrubland, Thick Shrubland, Thinned Pasture, Wasteland, Savanna, Outback, Savanna, Scrubland, Steppe, Savanna Plateau, Grassland, Overgrown Greens, Garden, Majestic Meadow, Rocky Steppe
 
 #chance: define the ratio at wich the dungeon spawns, if set to 0 the dungeon will be disabled.
 #The formula goes like that: every 5 chunks there is 1 between the number set to chance probabilities to spawn a dungeon.

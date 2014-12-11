@@ -2,7 +2,7 @@
 #biomes = Extreme Hills
 #Will spawn at y = 5
 
-biomes = Extreme Hills
+biomes = Extreme Hills, Mountain, Mesa, Alps, Alps Mountainside, Extreme Jungle, Crag, Volcano, Volcano, Mountainous Desert, Mountain Taiga, Jade Cliffs, Forested Hills, Alps Forest, Alpine, Sacred Springs, Ice Mountains, Tropics Mountain, Autumn Hills, Coniferous Forest, ForestHills, Snowy Coniferous Forest, TaigaHills, Rainforest, Hot Springs, ForestHills, TaigaHills, DesertHills, Forested Hills, Dunes, Icy Hills, JungleHills, Savanna Plateau
 
 #chance define the ratio at wich the dungeon spawn, if set to 0 the dungeon will be disabled.
 #The formula goes like that: every 5 chunks there is 1 between the number set to chance probabilities to spawn a dungeon.

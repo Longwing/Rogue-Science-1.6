@@ -1,4 +1,4 @@
-biomes = Ocean
+biomes = Ocean, Coral Reef, Kelp Forest
 chance = 45
 mob = triton
 icon = 10

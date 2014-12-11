@@ -1,7 +1,7 @@
 #Biomes, put biome names separated by comma, example:
 #biomes = Jungle, JungleHills
 
-biomes = Jungle, JungleHills, Extreme Jungle, Mini Jungle, Tropical Forest, Tropics
+biomes = Oasis, Rainforest, Tropical Shrubland, JungleHills, Jungle, JungleHills, Jungle, Tropical Rainforest, Extreme Jungle, Overgrown Greens, Tropics
 
 #chance define the ratio at wich the dungeon spawn, if set to 0 the dungeon will be disabled.
 #The formula goes like that: every 5 chunks there is 1 between the number set to chance probabilities to spawn a dungeon.
