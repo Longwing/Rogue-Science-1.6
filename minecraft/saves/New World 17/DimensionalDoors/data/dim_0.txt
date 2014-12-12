@@ -1,0 +1,361 @@
+{
+  "SAVE_DATA_VERSION_ID_INSTANCE": 982405775,
+  "ID": 0,
+  "IsDungeon": false,
+  "IsFilled": false,
+  "Depth": 0,
+  "PackDepth": 0,
+  "ParentID": 0,
+  "RootID": 0,
+  "Origin": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Orientation": 0,
+  "ChildIDs": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "Links": [
+    {
+      "source": {
+        "x": -110,
+        "y": 88,
+        "z": 417,
+        "dimension": 0
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": -237,
+          "y": 88,
+          "z": 415,
+          "dimension": 2
+        },
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": -80,
+        "y": 184,
+        "z": 140,
+        "dimension": 0
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": -147,
+          "y": 184,
+          "z": 149,
+          "dimension": 3
+        },
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": -224,
+        "y": 124,
+        "z": -135,
+        "dimension": 0
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": -322,
+          "y": 124,
+          "z": -137,
+          "dimension": 4
+        },
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": -835,
+        "y": 77,
+        "z": -481,
+        "dimension": 0
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": -908,
+          "y": 77,
+          "z": -472,
+          "dimension": 5
+        },
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": -956,
+        "y": 107,
+        "z": -717,
+        "dimension": 0
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": -1017,
+          "y": 107,
+          "z": -711,
+          "dimension": 6
+        },
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": -804,
+        "y": 93,
+        "z": -705,
+        "dimension": 0
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 0,
+      "children": [
+        {
+          "x": -802,
+          "y": 93,
+          "z": -714
+        },
+        {
+          "x": -811,
+          "y": 97,
+          "z": -707
+        }
+      ]
+    },
+    {
+      "source": {
+        "x": -802,
+        "y": 93,
+        "z": -714,
+        "dimension": 0
+      },
+      "parent": {
+        "x": -804,
+        "y": 93,
+        "z": -705
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 0,
+      "children": []
+    },
+    {
+      "source": {
+        "x": -811,
+        "y": 97,
+        "z": -707,
+        "dimension": 0
+      },
+      "parent": {
+        "x": -804,
+        "y": 93,
+        "z": -705
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 0,
+      "children": []
+    },
+    {
+      "source": {
+        "x": -1165,
+        "y": 82,
+        "z": 8,
+        "dimension": 0
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": -1239,
+          "y": 82,
+          "z": 3,
+          "dimension": 8
+        },
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 331,
+        "y": 66,
+        "z": -25,
+        "dimension": 0
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 256,
+          "y": 66,
+          "z": -26,
+          "dimension": 9
+        },
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 71,
+        "y": 77,
+        "z": -339,
+        "dimension": 0
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": -32,
+          "y": 77,
+          "z": -334,
+          "dimension": 10
+        },
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 299,
+        "y": 66,
+        "z": -538,
+        "dimension": 0
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 239,
+          "y": 66,
+          "z": -537,
+          "dimension": 11
+        },
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 185,
+        "y": 120,
+        "z": -624,
+        "dimension": 0
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 57,
+          "y": 120,
+          "z": -624,
+          "dimension": 12
+        },
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 693,
+        "y": 74,
+        "z": -402,
+        "dimension": 0
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 598,
+          "y": 74,
+          "z": -402,
+          "dimension": 13
+        },
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    }
+  ],
+  "Tails": []
+}

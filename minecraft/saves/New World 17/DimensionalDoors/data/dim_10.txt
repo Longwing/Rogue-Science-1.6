@@ -1,0 +1,107 @@
+{
+  "SAVE_DATA_VERSION_ID_INSTANCE": 982405775,
+  "ID": 10,
+  "IsDungeon": true,
+  "IsFilled": true,
+  "Depth": 1,
+  "PackDepth": 1,
+  "ParentID": 0,
+  "RootID": 0,
+  "DungeonData": {
+    "Weight": 200,
+    "IsOpen": false,
+    "IsInternal": true,
+    "SchematicPath": "/schematics/ruins/hub_4WayBasicHall_closed_200.schematic",
+    "SchematicName": "hub_4WayBasicHall_closed_200",
+    "DungeonTypeName": "HUB",
+    "DungeonPackName": "RUINS"
+  },
+  "Origin": {
+    "x": -32,
+    "y": 77,
+    "z": -334
+  },
+  "Orientation": 2,
+  "ChildIDs": [],
+  "Links": [
+    {
+      "source": {
+        "x": -32,
+        "y": 77,
+        "z": -334,
+        "dimension": 10
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 71,
+          "y": 77,
+          "z": -339,
+          "dimension": 0
+        },
+        "linkType": 7
+      },
+      "orientation": 0,
+      "children": []
+    },
+    {
+      "source": {
+        "x": -55,
+        "y": 77,
+        "z": -334,
+        "dimension": 10
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": -43,
+        "y": 77,
+        "z": -327,
+        "dimension": 10
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 1,
+      "children": []
+    },
+    {
+      "source": {
+        "x": -43,
+        "y": 77,
+        "z": -341,
+        "dimension": 10
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 3,
+      "children": []
+    }
+  ],
+  "Tails": []
+}

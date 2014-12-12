@@ -1,0 +1,143 @@
+{
+  "SAVE_DATA_VERSION_ID_INSTANCE": 982405775,
+  "ID": 5,
+  "IsDungeon": true,
+  "IsFilled": true,
+  "Depth": 1,
+  "PackDepth": 1,
+  "ParentID": 0,
+  "RootID": 0,
+  "DungeonData": {
+    "Weight": 200,
+    "IsOpen": false,
+    "IsInternal": true,
+    "SchematicPath": "/schematics/ruins/hub_4WayHallExit_closed_200.schematic",
+    "SchematicName": "hub_4WayHallExit_closed_200",
+    "DungeonTypeName": "HUB",
+    "DungeonPackName": "RUINS"
+  },
+  "Origin": {
+    "x": -908,
+    "y": 77,
+    "z": -472
+  },
+  "Orientation": 2,
+  "ChildIDs": [],
+  "Links": [
+    {
+      "source": {
+        "x": -908,
+        "y": 77,
+        "z": -472,
+        "dimension": 5
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": -835,
+          "y": 77,
+          "z": -481,
+          "dimension": 0
+        },
+        "linkType": 7
+      },
+      "orientation": 0,
+      "children": []
+    },
+    {
+      "source": {
+        "x": -939,
+        "y": 77,
+        "z": -485,
+        "dimension": 5
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": -937,
+        "y": 77,
+        "z": -458,
+        "dimension": 5
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": -913,
+        "y": 77,
+        "z": -485,
+        "dimension": 5
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 0,
+      "children": []
+    },
+    {
+      "source": {
+        "x": -911,
+        "y": 77,
+        "z": -458,
+        "dimension": 5
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 0,
+      "children": []
+    },
+    {
+      "source": {
+        "x": -939,
+        "y": 77,
+        "z": -472,
+        "dimension": 5
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 4
+      },
+      "orientation": 2,
+      "children": []
+    }
+  ],
+  "Tails": []
+}

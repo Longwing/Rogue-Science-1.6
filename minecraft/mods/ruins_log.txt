@@ -913,8 +913,659 @@ Ignoring unknown file type: WoodHouse_Ruined.jpg
 Successfully loaded template WoodHouse_Ruined.tml with weight 10.
 Loaded Mountainous Desert ruins templates, biomeID 40
 
+Loading the mountain ridge ruins templates...
+Ignoring unknown file type: Altar.jpg
+Successfully loaded template Altar.tml with weight 10.
+Successfully loaded template AncientFountain.tml with weight 10.
+Successfully loaded template Archway.tml with weight 15.
+Successfully loaded template Barrow.tml with weight 10.
+Successfully loaded template Beacon.tml with weight 10.
+Successfully loaded template BlockHenge.tml with weight 10.
+Successfully loaded template BrickHouse.tml with weight 10.
+Successfully loaded template BridgePilings-land.tml with weight 10.
+Successfully loaded template BridgePilings-water.tml with weight 10.
+Ignoring unknown file type: BunkerMedium.jpg
+Successfully loaded template BunkerMedium.tml with weight 5.
+Ignoring unknown file type: BunkerSmall.jpg
+Successfully loaded template BunkerSmall.tml with weight 5.
+Ignoring unknown file type: CastleModifiedRuined.jpg
+Successfully loaded template CastleModifiedRuined.tml with weight 10.
+Successfully loaded template DwarfBase-mtn.tml with weight 10.
+Successfully loaded template Gazebo.tml with weight 10.
+Successfully loaded template Gnomeworks.tml with weight 10.
+Successfully loaded template GuardHouse.tml with weight 10.
+Successfully loaded template LargeBrickHouse.tml with weight 5.
+Successfully loaded template LargeStoneHouse.tml with weight 10.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 10.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template Monolith.tml with weight 10.
+Successfully loaded template OldFoundation.tml with weight 10.
+Successfully loaded template Outcrop4_good.tml with weight 10.
+Successfully loaded template PillarBase.tml with weight 10.
+Ignoring unknown file type: Piston-BunkerUnderground.jpg
+Successfully loaded template Piston-BunkerUnderground.tml with weight 5.
+Ignoring unknown file type: Piston-CreeperRoom.jpg
+Successfully loaded template Piston-CreeperRoom.tml with weight 5.
+Successfully loaded template Pit-med.tml with weight 10.
+Successfully loaded template Pit-small.tml with weight 10.
+Ignoring unknown file type: PyramidStone.jpg
+Successfully loaded template PyramidStone.tml with weight 10.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 10.
+Successfully loaded template RuinedTripleFountain.tml with weight 12.
+Successfully loaded template ShortTower.tml with weight 10.
+Successfully loaded template SmallWell.tml with weight 10.
+Successfully loaded template SpearStatue.tml with weight 10.
+Successfully loaded template StoneHenge.tml with weight 10.
+Successfully loaded template StoneHouse.tml with weight 6.
+Ignoring unknown file type: StoneHouseM.jpg
+Successfully loaded template StoneHouseMruined.tml with weight 10.
+Ignoring unknown file type: StoneHouse_Ruined.jpg
+Successfully loaded template StoneHouse_Ruined.tml with weight 10.
+Successfully loaded template TallTower.tml with weight 10.
+Successfully loaded template TEiEN_BigHouse.tml with weight 10.
+Successfully loaded template TEiEN_BrickHouse.tml with weight 10.
+Successfully loaded template TEiEN_Foundation-brick.tml with weight 10.
+Successfully loaded template TEiEN_GraveyardHaunted.tml with weight 10.
+Successfully loaded template TEiEN_LargeBrickHouse.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneHouse.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneHouseWBasement.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneTwoStoryHouse.tml with weight 10.
+Successfully loaded template TEiEN_LookoutTower.tml with weight 10.
+Successfully loaded template TEiEN_Road-cross.tml with weight 10.
+Successfully loaded template TEiEN_Road-long.tml with weight 10.
+Successfully loaded template TEiEN_Road-poles.tml with weight 10.
+Successfully loaded template TEiEN_Road-straight.tml with weight 10.
+Successfully loaded template TEiEN_Road-turn.tml with weight 10.
+Successfully loaded template TEiEN_WoodHouse.tml with weight 10.
+Successfully loaded template Tower-edit.tml with weight 6.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 10.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 10.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 10.
+Successfully loaded template VanillaVillageForge-r.tml with weight 10.
+Successfully loaded template VanillaVillageHut-r.tml with weight 10.
+Successfully loaded template VolcanicVent3_good.tml with weight 5.
+Ignoring unknown file type: WatchtowerIntact.jpg
+Successfully loaded template WatchtowerIntact.tml with weight 5.
+Ignoring unknown file type: WatchtowerRuined.jpg
+Successfully loaded template WatchtowerRuined.tml with weight 10.
+Successfully loaded template WoodHouse.tml with weight 2.
+Ignoring unknown file type: WoodHouse2_Ruined.jpg
+Successfully loaded template WoodHouse2_Ruined.tml with weight 10.
+Ignoring unknown file type: WoodHouse3_Ruined.jpg
+Successfully loaded template WoodHouse3_Ruined.tml with weight 10.
+Ignoring unknown file type: WoodHouse_Ruined.jpg
+Successfully loaded template WoodHouse_Ruined.tml with weight 10.
+Loaded Mountain Ridge ruins templates, biomeID 41
+
 Loading the mountain taiga ruins templates...
 Loaded Mountain Taiga ruins templates, biomeID 42
+
+Loading the pine forest ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 10.
+Ignoring unknown file type: Altar.jpg
+Successfully loaded template Altar.tml with weight 10.
+Successfully loaded template AncientFountain.tml with weight 10.
+Successfully loaded template Archway.tml with weight 15.
+Successfully loaded template Barn-ruined.tml with weight 10.
+Successfully loaded template Barrow.tml with weight 10.
+Successfully loaded template BattleBasementHard.tml with weight 10.
+Successfully loaded template BattleBasementMedium.tml with weight 10.
+Successfully loaded template BlockHenge.tml with weight 10.
+Successfully loaded template BrickHouse.tml with weight 10.
+Successfully loaded template BridgePilings-land.tml with weight 10.
+Successfully loaded template BridgePilings-water.tml with weight 10.
+Ignoring unknown file type: BunkerMedium.jpg
+Successfully loaded template BunkerMedium.tml with weight 5.
+Ignoring unknown file type: BunkerSmall.jpg
+Successfully loaded template BunkerSmall.tml with weight 5.
+Ignoring unknown file type: CastleModifiedRuined.jpg
+Successfully loaded template CastleModifiedRuined.tml with weight 10.
+Successfully loaded template DiamondWell.tml with weight 3.
+Successfully loaded template Gazebo.tml with weight 10.
+Successfully loaded template Gnomeworks.tml with weight 10.
+Successfully loaded template GoldWell.tml with weight 5.
+Successfully loaded template GuardHouse.tml with weight 10.
+Successfully loaded template LargeBrickHouse.tml with weight 5.
+Successfully loaded template LargeStoneHouse.tml with weight 10.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 10.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 10.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template Monolith.tml with weight 10.
+Successfully loaded template OldFoundation.tml with weight 10.
+Successfully loaded template Outcrop4_good.tml with weight 10.
+Successfully loaded template PillarBase.tml with weight 10.
+Ignoring unknown file type: Piston-BunkerUnderground.jpg
+Successfully loaded template Piston-BunkerUnderground.tml with weight 5.
+Ignoring unknown file type: Piston-CreeperRoom.jpg
+Successfully loaded template Piston-CreeperRoom.tml with weight 5.
+Successfully loaded template Pit-med.tml with weight 10.
+Successfully loaded template Pit-small.tml with weight 10.
+Ignoring unknown file type: PyramidStone.jpg
+Successfully loaded template PyramidStone.tml with weight 10.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 10.
+Successfully loaded template RuinedTripleFountain.tml with weight 12.
+Successfully loaded template ShortTower.tml with weight 10.
+Successfully loaded template SmallWell.tml with weight 10.
+Successfully loaded template SpiralTree.tml with weight 10.
+Successfully loaded template StoneHenge.tml with weight 10.
+Successfully loaded template StoneHouse.tml with weight 6.
+Ignoring unknown file type: StoneHouseM.jpg
+Successfully loaded template StoneHouseMruined.tml with weight 10.
+Ignoring unknown file type: StoneHouse_Ruined.jpg
+Successfully loaded template StoneHouse_Ruined.tml with weight 10.
+Successfully loaded template TallTower.tml with weight 10.
+Successfully loaded template TEiEN_BigHouse.tml with weight 10.
+Successfully loaded template TEiEN_BrickHouse.tml with weight 10.
+Successfully loaded template TEiEN_Foundation-brick.tml with weight 10.
+Successfully loaded template TEiEN_GraveyardHaunted.tml with weight 10.
+Successfully loaded template TEiEN_LargeBrickHouse.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneHouse.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneHouseWBasement.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneTwoStoryHouse.tml with weight 10.
+Successfully loaded template TEiEN_LookoutTower.tml with weight 1.
+Successfully loaded template TEiEN_Road-cross.tml with weight 10.
+Successfully loaded template TEiEN_Road-long.tml with weight 10.
+Successfully loaded template TEiEN_Road-poles.tml with weight 10.
+Successfully loaded template TEiEN_Road-straight.tml with weight 10.
+Successfully loaded template TEiEN_Road-turn.tml with weight 10.
+Successfully loaded template TEiEN_WoodHouse.tml with weight 10.
+Successfully loaded template TinyFarmField.tml with weight 10.
+Successfully loaded template Tower-edit.tml with weight 6.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TreeDungeon.tml with weight 5.
+Successfully loaded template TreeHouse.tml with weight 10.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 10.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 10.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 10.
+Successfully loaded template VanillaVillageForge-r.tml with weight 10.
+Successfully loaded template VanillaVillageHut-r.tml with weight 10.
+Successfully loaded template VolcanicVent3_good.tml with weight 5.
+Ignoring unknown file type: WatchtowerIntact.jpg
+Successfully loaded template WatchtowerIntact.tml with weight 5.
+Ignoring unknown file type: WatchtowerRuined.jpg
+Successfully loaded template WatchtowerRuined.tml with weight 10.
+Successfully loaded template WoodHouse.tml with weight 2.
+Ignoring unknown file type: WoodHouse2_Ruined.jpg
+Successfully loaded template WoodHouse2_Ruined.tml with weight 10.
+Ignoring unknown file type: WoodHouse3_Ruined.jpg
+Successfully loaded template WoodHouse3_Ruined.tml with weight 10.
+Ignoring unknown file type: WoodHouse_Ruined.jpg
+Successfully loaded template WoodHouse_Ruined.tml with weight 10.
+Loaded Pine Forest ruins templates, biomeID 43
+
+Loading the rainforest ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 10.
+Ignoring unknown file type: Altar.jpg
+Successfully loaded template Altar.tml with weight 10.
+Successfully loaded template AncientFountain.tml with weight 10.
+Successfully loaded template Archway.tml with weight 15.
+Successfully loaded template Barn-ruined.tml with weight 10.
+Successfully loaded template Barrow.tml with weight 10.
+Successfully loaded template BattleBasementHard.tml with weight 10.
+Successfully loaded template BattleBasementMedium.tml with weight 10.
+Successfully loaded template BlockHenge.tml with weight 10.
+Successfully loaded template BrickHouse.tml with weight 10.
+Successfully loaded template BridgePilings-land.tml with weight 10.
+Successfully loaded template BridgePilings-water.tml with weight 10.
+Ignoring unknown file type: BunkerMedium.jpg
+Successfully loaded template BunkerMedium.tml with weight 5.
+Ignoring unknown file type: BunkerSmall.jpg
+Successfully loaded template BunkerSmall.tml with weight 5.
+Ignoring unknown file type: CastleModifiedRuined.jpg
+Successfully loaded template CastleModifiedRuined.tml with weight 10.
+Successfully loaded template DiamondWell.tml with weight 3.
+Successfully loaded template Gazebo.tml with weight 10.
+Successfully loaded template Gnomeworks.tml with weight 10.
+Successfully loaded template GoldWell.tml with weight 5.
+Successfully loaded template GuardHouse.tml with weight 10.
+Successfully loaded template LargeBrickHouse.tml with weight 5.
+Successfully loaded template LargeStoneHouse.tml with weight 10.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 10.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 10.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template Monolith.tml with weight 10.
+Successfully loaded template OldFoundation.tml with weight 10.
+Successfully loaded template Outcrop4_good.tml with weight 10.
+Successfully loaded template PillarBase.tml with weight 10.
+Ignoring unknown file type: Piston-BunkerUnderground.jpg
+Successfully loaded template Piston-BunkerUnderground.tml with weight 5.
+Ignoring unknown file type: Piston-CreeperRoom.jpg
+Successfully loaded template Piston-CreeperRoom.tml with weight 5.
+Successfully loaded template Pit-med.tml with weight 10.
+Successfully loaded template Pit-small.tml with weight 10.
+Ignoring unknown file type: PyramidStone.jpg
+Successfully loaded template PyramidStone.tml with weight 10.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 10.
+Successfully loaded template RuinedTripleFountain.tml with weight 12.
+Successfully loaded template ShortTower.tml with weight 10.
+Successfully loaded template SmallWell.tml with weight 10.
+Successfully loaded template SpiralTree.tml with weight 10.
+Successfully loaded template StoneHenge.tml with weight 10.
+Successfully loaded template StoneHouse.tml with weight 6.
+Ignoring unknown file type: StoneHouseM.jpg
+Successfully loaded template StoneHouseMruined.tml with weight 10.
+Ignoring unknown file type: StoneHouse_Ruined.jpg
+Successfully loaded template StoneHouse_Ruined.tml with weight 10.
+Successfully loaded template TallTower.tml with weight 10.
+Successfully loaded template TEiEN_BigHouse.tml with weight 10.
+Successfully loaded template TEiEN_BrickHouse.tml with weight 10.
+Successfully loaded template TEiEN_Foundation-brick.tml with weight 10.
+Successfully loaded template TEiEN_GraveyardHaunted.tml with weight 10.
+Successfully loaded template TEiEN_LargeBrickHouse.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneHouse.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneHouseWBasement.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneTwoStoryHouse.tml with weight 10.
+Successfully loaded template TEiEN_LookoutTower.tml with weight 1.
+Successfully loaded template TEiEN_Road-cross.tml with weight 10.
+Successfully loaded template TEiEN_Road-long.tml with weight 10.
+Successfully loaded template TEiEN_Road-poles.tml with weight 10.
+Successfully loaded template TEiEN_Road-straight.tml with weight 10.
+Successfully loaded template TEiEN_Road-turn.tml with weight 10.
+Successfully loaded template TEiEN_WoodHouse.tml with weight 10.
+Successfully loaded template TinyFarmField.tml with weight 10.
+Successfully loaded template Tower-edit.tml with weight 6.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TreeDungeon.tml with weight 5.
+Successfully loaded template TreeHouse.tml with weight 10.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 10.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 10.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 10.
+Successfully loaded template VanillaVillageForge-r.tml with weight 10.
+Successfully loaded template VanillaVillageHut-r.tml with weight 10.
+Successfully loaded template VolcanicVent3_good.tml with weight 5.
+Ignoring unknown file type: WatchtowerIntact.jpg
+Successfully loaded template WatchtowerIntact.tml with weight 5.
+Ignoring unknown file type: WatchtowerRuined.jpg
+Successfully loaded template WatchtowerRuined.tml with weight 10.
+Successfully loaded template WoodHouse.tml with weight 2.
+Ignoring unknown file type: WoodHouse2_Ruined.jpg
+Successfully loaded template WoodHouse2_Ruined.tml with weight 10.
+Ignoring unknown file type: WoodHouse3_Ruined.jpg
+Successfully loaded template WoodHouse3_Ruined.tml with weight 10.
+Ignoring unknown file type: WoodHouse_Ruined.jpg
+Successfully loaded template WoodHouse_Ruined.tml with weight 10.
+Loaded Rainforest ruins templates, biomeID 44
+
+Loading the redwood forest ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 10.
+Ignoring unknown file type: Altar.jpg
+Successfully loaded template Altar.tml with weight 10.
+Successfully loaded template AncientFountain.tml with weight 10.
+Successfully loaded template Archway.tml with weight 15.
+Successfully loaded template Barn-ruined.tml with weight 10.
+Successfully loaded template Barrow.tml with weight 10.
+Successfully loaded template BattleBasementHard.tml with weight 10.
+Successfully loaded template BattleBasementMedium.tml with weight 10.
+Successfully loaded template BlockHenge.tml with weight 10.
+Successfully loaded template BrickHouse.tml with weight 10.
+Successfully loaded template BridgePilings-land.tml with weight 10.
+Successfully loaded template BridgePilings-water.tml with weight 10.
+Ignoring unknown file type: BunkerMedium.jpg
+Successfully loaded template BunkerMedium.tml with weight 5.
+Ignoring unknown file type: BunkerSmall.jpg
+Successfully loaded template BunkerSmall.tml with weight 5.
+Ignoring unknown file type: CastleModifiedRuined.jpg
+Successfully loaded template CastleModifiedRuined.tml with weight 10.
+Successfully loaded template DiamondWell.tml with weight 3.
+Successfully loaded template Gazebo.tml with weight 10.
+Successfully loaded template Gnomeworks.tml with weight 10.
+Successfully loaded template GoldWell.tml with weight 5.
+Successfully loaded template GuardHouse.tml with weight 10.
+Successfully loaded template LargeBrickHouse.tml with weight 5.
+Successfully loaded template LargeStoneHouse.tml with weight 10.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 10.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 10.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template Monolith.tml with weight 10.
+Successfully loaded template OldFoundation.tml with weight 10.
+Successfully loaded template Outcrop4_good.tml with weight 10.
+Successfully loaded template PillarBase.tml with weight 10.
+Ignoring unknown file type: Piston-BunkerUnderground.jpg
+Successfully loaded template Piston-BunkerUnderground.tml with weight 5.
+Ignoring unknown file type: Piston-CreeperRoom.jpg
+Successfully loaded template Piston-CreeperRoom.tml with weight 5.
+Successfully loaded template Pit-med.tml with weight 10.
+Successfully loaded template Pit-small.tml with weight 10.
+Ignoring unknown file type: PyramidStone.jpg
+Successfully loaded template PyramidStone.tml with weight 10.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 10.
+Successfully loaded template RuinedTripleFountain.tml with weight 12.
+Successfully loaded template ShortTower.tml with weight 10.
+Successfully loaded template SmallWell.tml with weight 10.
+Successfully loaded template SpiralTree.tml with weight 10.
+Successfully loaded template StoneHenge.tml with weight 10.
+Successfully loaded template StoneHouse.tml with weight 6.
+Ignoring unknown file type: StoneHouseM.jpg
+Successfully loaded template StoneHouseMruined.tml with weight 10.
+Ignoring unknown file type: StoneHouse_Ruined.jpg
+Successfully loaded template StoneHouse_Ruined.tml with weight 10.
+Successfully loaded template TallTower.tml with weight 10.
+Successfully loaded template TEiEN_BigHouse.tml with weight 10.
+Successfully loaded template TEiEN_BrickHouse.tml with weight 10.
+Successfully loaded template TEiEN_Foundation-brick.tml with weight 10.
+Successfully loaded template TEiEN_GraveyardHaunted.tml with weight 10.
+Successfully loaded template TEiEN_LargeBrickHouse.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneHouse.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneHouseWBasement.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneTwoStoryHouse.tml with weight 10.
+Successfully loaded template TEiEN_LookoutTower.tml with weight 1.
+Successfully loaded template TEiEN_Road-cross.tml with weight 10.
+Successfully loaded template TEiEN_Road-long.tml with weight 10.
+Successfully loaded template TEiEN_Road-poles.tml with weight 10.
+Successfully loaded template TEiEN_Road-straight.tml with weight 10.
+Successfully loaded template TEiEN_Road-turn.tml with weight 10.
+Successfully loaded template TEiEN_WoodHouse.tml with weight 10.
+Successfully loaded template TinyFarmField.tml with weight 10.
+Successfully loaded template Tower-edit.tml with weight 6.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TreeDungeon.tml with weight 5.
+Successfully loaded template TreeHouse.tml with weight 10.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 10.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 10.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 10.
+Successfully loaded template VanillaVillageForge-r.tml with weight 10.
+Successfully loaded template VanillaVillageHut-r.tml with weight 10.
+Successfully loaded template VolcanicVent3_good.tml with weight 5.
+Ignoring unknown file type: WatchtowerIntact.jpg
+Successfully loaded template WatchtowerIntact.tml with weight 5.
+Ignoring unknown file type: WatchtowerRuined.jpg
+Successfully loaded template WatchtowerRuined.tml with weight 10.
+Successfully loaded template WoodHouse.tml with weight 2.
+Ignoring unknown file type: WoodHouse2_Ruined.jpg
+Successfully loaded template WoodHouse2_Ruined.tml with weight 10.
+Ignoring unknown file type: WoodHouse3_Ruined.jpg
+Successfully loaded template WoodHouse3_Ruined.tml with weight 10.
+Ignoring unknown file type: WoodHouse_Ruined.jpg
+Successfully loaded template WoodHouse_Ruined.tml with weight 10.
+Loaded Redwood Forest ruins templates, biomeID 45
+
+Loading the lush redwoods ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 10.
+Ignoring unknown file type: Altar.jpg
+Successfully loaded template Altar.tml with weight 10.
+Successfully loaded template AncientFountain.tml with weight 10.
+Successfully loaded template Archway.tml with weight 15.
+Successfully loaded template Barn-ruined.tml with weight 10.
+Successfully loaded template Barrow.tml with weight 10.
+Successfully loaded template BattleBasementHard.tml with weight 10.
+Successfully loaded template BattleBasementMedium.tml with weight 10.
+Successfully loaded template BlockHenge.tml with weight 10.
+Successfully loaded template BrickHouse.tml with weight 10.
+Successfully loaded template BridgePilings-land.tml with weight 10.
+Successfully loaded template BridgePilings-water.tml with weight 10.
+Ignoring unknown file type: BunkerMedium.jpg
+Successfully loaded template BunkerMedium.tml with weight 5.
+Ignoring unknown file type: BunkerSmall.jpg
+Successfully loaded template BunkerSmall.tml with weight 5.
+Ignoring unknown file type: CastleModifiedRuined.jpg
+Successfully loaded template CastleModifiedRuined.tml with weight 10.
+Successfully loaded template DiamondWell.tml with weight 3.
+Successfully loaded template Gazebo.tml with weight 10.
+Successfully loaded template Gnomeworks.tml with weight 10.
+Successfully loaded template GoldWell.tml with weight 5.
+Successfully loaded template GuardHouse.tml with weight 10.
+Successfully loaded template LargeBrickHouse.tml with weight 5.
+Successfully loaded template LargeStoneHouse.tml with weight 10.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 10.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 10.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template Monolith.tml with weight 10.
+Successfully loaded template OldFoundation.tml with weight 10.
+Successfully loaded template Outcrop4_good.tml with weight 10.
+Successfully loaded template PillarBase.tml with weight 10.
+Ignoring unknown file type: Piston-BunkerUnderground.jpg
+Successfully loaded template Piston-BunkerUnderground.tml with weight 5.
+Ignoring unknown file type: Piston-CreeperRoom.jpg
+Successfully loaded template Piston-CreeperRoom.tml with weight 5.
+Successfully loaded template Pit-med.tml with weight 10.
+Successfully loaded template Pit-small.tml with weight 10.
+Ignoring unknown file type: PyramidStone.jpg
+Successfully loaded template PyramidStone.tml with weight 10.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 10.
+Successfully loaded template RuinedTripleFountain.tml with weight 12.
+Successfully loaded template ShortTower.tml with weight 10.
+Successfully loaded template SmallWell.tml with weight 10.
+Successfully loaded template SpiralTree.tml with weight 10.
+Successfully loaded template StoneHenge.tml with weight 10.
+Successfully loaded template StoneHouse.tml with weight 6.
+Ignoring unknown file type: StoneHouseM.jpg
+Successfully loaded template StoneHouseMruined.tml with weight 10.
+Ignoring unknown file type: StoneHouse_Ruined.jpg
+Successfully loaded template StoneHouse_Ruined.tml with weight 10.
+Successfully loaded template TallTower.tml with weight 10.
+Successfully loaded template TEiEN_BigHouse.tml with weight 10.
+Successfully loaded template TEiEN_BrickHouse.tml with weight 10.
+Successfully loaded template TEiEN_Foundation-brick.tml with weight 10.
+Successfully loaded template TEiEN_GraveyardHaunted.tml with weight 10.
+Successfully loaded template TEiEN_LargeBrickHouse.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneHouse.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneHouseWBasement.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneTwoStoryHouse.tml with weight 10.
+Successfully loaded template TEiEN_LookoutTower.tml with weight 1.
+Successfully loaded template TEiEN_Road-cross.tml with weight 10.
+Successfully loaded template TEiEN_Road-long.tml with weight 10.
+Successfully loaded template TEiEN_Road-poles.tml with weight 10.
+Successfully loaded template TEiEN_Road-straight.tml with weight 10.
+Successfully loaded template TEiEN_Road-turn.tml with weight 10.
+Successfully loaded template TEiEN_WoodHouse.tml with weight 10.
+Successfully loaded template TinyFarmField.tml with weight 10.
+Successfully loaded template Tower-edit.tml with weight 6.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TreeDungeon.tml with weight 5.
+Successfully loaded template TreeHouse.tml with weight 10.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 10.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 10.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 10.
+Successfully loaded template VanillaVillageForge-r.tml with weight 10.
+Successfully loaded template VanillaVillageHut-r.tml with weight 10.
+Successfully loaded template VolcanicVent3_good.tml with weight 5.
+Ignoring unknown file type: WatchtowerIntact.jpg
+Successfully loaded template WatchtowerIntact.tml with weight 5.
+Ignoring unknown file type: WatchtowerRuined.jpg
+Successfully loaded template WatchtowerRuined.tml with weight 10.
+Successfully loaded template WoodHouse.tml with weight 2.
+Ignoring unknown file type: WoodHouse2_Ruined.jpg
+Successfully loaded template WoodHouse2_Ruined.tml with weight 10.
+Ignoring unknown file type: WoodHouse3_Ruined.jpg
+Successfully loaded template WoodHouse3_Ruined.tml with weight 10.
+Ignoring unknown file type: WoodHouse_Ruined.jpg
+Successfully loaded template WoodHouse_Ruined.tml with weight 10.
+Loaded Lush Redwoods ruins templates, biomeID 46
+
+Loading the savanna ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 10.
+Ignoring unknown file type: Altar.jpg
+Successfully loaded template Altar.tml with weight 10.
+Successfully loaded template AncientFountain.tml with weight 10.
+Successfully loaded template Archway.tml with weight 15.
+Successfully loaded template Barn-ruined.tml with weight 10.
+Successfully loaded template Barrow.tml with weight 10.
+Successfully loaded template BattleBasementHard.tml with weight 10.
+Successfully loaded template BattleBasementMedium.tml with weight 10.
+Successfully loaded template BlockHenge.tml with weight 10.
+Successfully loaded template BrickHouse.tml with weight 10.
+Successfully loaded template BridgePilings-land.tml with weight 10.
+Successfully loaded template BridgePilings-water.tml with weight 10.
+Ignoring unknown file type: BunkerMedium.jpg
+Successfully loaded template BunkerMedium.tml with weight 5.
+Ignoring unknown file type: BunkerSmall.jpg
+Successfully loaded template BunkerSmall.tml with weight 5.
+Ignoring unknown file type: CastleModifiedRuined.jpg
+Successfully loaded template CastleModifiedRuined.tml with weight 10.
+Successfully loaded template DiamondWell.tml with weight 3.
+Successfully loaded template Gazebo.tml with weight 10.
+Successfully loaded template Gnomeworks.tml with weight 10.
+Successfully loaded template GoldWell.tml with weight 5.
+Successfully loaded template GuardHouse.tml with weight 10.
+Successfully loaded template LargeBrickHouse.tml with weight 5.
+Successfully loaded template LargeStoneHouse.tml with weight 10.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 10.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 10.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template Monolith.tml with weight 10.
+Successfully loaded template OldFoundation.tml with weight 10.
+Successfully loaded template Outcrop4_good.tml with weight 10.
+Successfully loaded template PillarBase.tml with weight 10.
+Ignoring unknown file type: Piston-BunkerUnderground.jpg
+Successfully loaded template Piston-BunkerUnderground.tml with weight 5.
+Ignoring unknown file type: Piston-CreeperRoom.jpg
+Successfully loaded template Piston-CreeperRoom.tml with weight 5.
+Successfully loaded template Pit-big.tml with weight 10.
+Successfully loaded template Pit-med.tml with weight 10.
+Successfully loaded template Pit-small.tml with weight 10.
+Ignoring unknown file type: PyramidStone.jpg
+Successfully loaded template PyramidStone.tml with weight 10.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 10.
+Successfully loaded template RuinedTripleFountain.tml with weight 12.
+Successfully loaded template ShortTower.tml with weight 10.
+Successfully loaded template SmallWell.tml with weight 10.
+Successfully loaded template SpearStatue.tml with weight 10.
+Successfully loaded template SpiralTree.tml with weight 10.
+Successfully loaded template StoneHenge.tml with weight 10.
+Successfully loaded template StoneHouse.tml with weight 6.
+Ignoring unknown file type: StoneHouseM.jpg
+Successfully loaded template StoneHouseMruined.tml with weight 10.
+Ignoring unknown file type: StoneHouse_Ruined.jpg
+Successfully loaded template StoneHouse_Ruined.tml with weight 10.
+Successfully loaded template TallTower.tml with weight 10.
+Successfully loaded template TEiEN-Sewer2.tml with weight 10.
+Successfully loaded template TEiEN_BigHouse.tml with weight 10.
+Successfully loaded template TEiEN_BrickHouse.tml with weight 10.
+Successfully loaded template TEiEN_Foundation-brick.tml with weight 10.
+Successfully loaded template TEiEN_GraveyardHaunted.tml with weight 10.
+Successfully loaded template TEiEN_LargeBrickHouse.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneHouse.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneHouseWBasement.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneTwoStoryHouse.tml with weight 10.
+Successfully loaded template TEiEN_LookoutTower.tml with weight 1.
+Successfully loaded template TEiEN_Road-cross.tml with weight 10.
+Successfully loaded template TEiEN_Road-long.tml with weight 10.
+Successfully loaded template TEiEN_Road-poles.tml with weight 10.
+Successfully loaded template TEiEN_Road-straight.tml with weight 10.
+Successfully loaded template TEiEN_Road-turn.tml with weight 10.
+Successfully loaded template TEiEN_WoodHouse.tml with weight 10.
+Successfully loaded template TinyFarmField.tml with weight 10.
+Successfully loaded template Tower-edit.tml with weight 6.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TowerEasy.tml with weight 10.
+Successfully loaded template TowerMedium.tml with weight 10.
+Successfully loaded template UNderground Ruin.tml with weight 10.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 10.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 10.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 10.
+Successfully loaded template VanillaVillageForge-r.tml with weight 10.
+Successfully loaded template VanillaVillageHut-r.tml with weight 10.
+Successfully loaded template VolcanicVent3_good.tml with weight 5.
+Ignoring unknown file type: WatchtowerIntact.jpg
+Successfully loaded template WatchtowerIntact.tml with weight 5.
+Ignoring unknown file type: WatchtowerRuined.jpg
+Successfully loaded template WatchtowerRuined.tml with weight 10.
+Successfully loaded template WoodHouse.tml with weight 2.
+Ignoring unknown file type: WoodHouse2_Ruined.jpg
+Successfully loaded template WoodHouse2_Ruined.tml with weight 10.
+Ignoring unknown file type: WoodHouse3_Ruined.jpg
+Successfully loaded template WoodHouse3_Ruined.tml with weight 10.
+Ignoring unknown file type: WoodHouse_Ruined.jpg
+Successfully loaded template WoodHouse_Ruined.tml with weight 10.
+Loaded Savanna ruins templates, biomeID 47
+
+Loading the shrubland ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 10.
+Ignoring unknown file type: Altar.jpg
+Successfully loaded template Altar.tml with weight 10.
+Successfully loaded template AncientFountain.tml with weight 10.
+Successfully loaded template Archway.tml with weight 15.
+Successfully loaded template Barn-ruined.tml with weight 10.
+Successfully loaded template Barrow.tml with weight 10.
+Successfully loaded template BattleBasementHard.tml with weight 10.
+Successfully loaded template BattleBasementMedium.tml with weight 10.
+Successfully loaded template BlockHenge.tml with weight 10.
+Successfully loaded template BrickHouse.tml with weight 10.
+Successfully loaded template BridgePilings-land.tml with weight 10.
+Successfully loaded template BridgePilings-water.tml with weight 10.
+Ignoring unknown file type: BunkerMedium.jpg
+Successfully loaded template BunkerMedium.tml with weight 5.
+Ignoring unknown file type: BunkerSmall.jpg
+Successfully loaded template BunkerSmall.tml with weight 5.
+Ignoring unknown file type: CastleModifiedRuined.jpg
+Successfully loaded template CastleModifiedRuined.tml with weight 10.
+Successfully loaded template DiamondWell.tml with weight 3.
+Successfully loaded template Gazebo.tml with weight 10.
+Successfully loaded template Gnomeworks.tml with weight 10.
+Successfully loaded template GoldWell.tml with weight 5.
+Successfully loaded template GuardHouse.tml with weight 10.
+Successfully loaded template LargeBrickHouse.tml with weight 5.
+Successfully loaded template LargeStoneHouse.tml with weight 10.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 10.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 10.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template Monolith.tml with weight 10.
+Successfully loaded template OldFoundation.tml with weight 10.
+Successfully loaded template Outcrop4_good.tml with weight 10.
+Successfully loaded template PillarBase.tml with weight 10.
+Ignoring unknown file type: Piston-BunkerUnderground.jpg
+Successfully loaded template Piston-BunkerUnderground.tml with weight 5.
+Ignoring unknown file type: Piston-CreeperRoom.jpg
+Successfully loaded template Piston-CreeperRoom.tml with weight 5.
+Successfully loaded template Pit-big.tml with weight 10.
+Successfully loaded template Pit-med.tml with weight 10.
+Successfully loaded template Pit-small.tml with weight 10.
+Ignoring unknown file type: PyramidStone.jpg
+Successfully loaded template PyramidStone.tml with weight 10.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 10.
+Successfully loaded template RuinedTripleFountain.tml with weight 12.
+Successfully loaded template ShortTower.tml with weight 10.
+Successfully loaded template SmallWell.tml with weight 10.
+Successfully loaded template SpearStatue.tml with weight 10.
+Successfully loaded template SpiralTree.tml with weight 10.
+Successfully loaded template StoneHenge.tml with weight 10.
+Successfully loaded template StoneHouse.tml with weight 6.
+Ignoring unknown file type: StoneHouseM.jpg
+Successfully loaded template StoneHouseMruined.tml with weight 10.
+Ignoring unknown file type: StoneHouse_Ruined.jpg
+Successfully loaded template StoneHouse_Ruined.tml with weight 10.
+Successfully loaded template TallTower.tml with weight 10.
+Successfully loaded template TEiEN-Sewer2.tml with weight 10.
+Successfully loaded template TEiEN_BigHouse.tml with weight 10.
+Successfully loaded template TEiEN_BrickHouse.tml with weight 10.
+Successfully loaded template TEiEN_Foundation-brick.tml with weight 10.
+Successfully loaded template TEiEN_GraveyardHaunted.tml with weight 10.
+Successfully loaded template TEiEN_LargeBrickHouse.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneHouse.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneHouseWBasement.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneTwoStoryHouse.tml with weight 10.
+Successfully loaded template TEiEN_LookoutTower.tml with weight 1.
+Successfully loaded template TEiEN_Road-cross.tml with weight 10.
+Successfully loaded template TEiEN_Road-long.tml with weight 10.
+Successfully loaded template TEiEN_Road-poles.tml with weight 10.
+Successfully loaded template TEiEN_Road-straight.tml with weight 10.
+Successfully loaded template TEiEN_Road-turn.tml with weight 10.
+Successfully loaded template TEiEN_WoodHouse.tml with weight 10.
+Successfully loaded template TinyFarmField.tml with weight 10.
+Successfully loaded template Tower-edit.tml with weight 6.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TowerEasy.tml with weight 10.
+Successfully loaded template TowerMedium.tml with weight 10.
+Successfully loaded template UNderground Ruin.tml with weight 10.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 10.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 10.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 10.
+Successfully loaded template VanillaVillageForge-r.tml with weight 10.
+Successfully loaded template VanillaVillageHut-r.tml with weight 10.
+Successfully loaded template VolcanicVent3_good.tml with weight 5.
+Ignoring unknown file type: WatchtowerIntact.jpg
+Successfully loaded template WatchtowerIntact.tml with weight 5.
+Ignoring unknown file type: WatchtowerRuined.jpg
+Successfully loaded template WatchtowerRuined.tml with weight 10.
+Successfully loaded template WoodHouse.tml with weight 2.
+Ignoring unknown file type: WoodHouse2_Ruined.jpg
+Successfully loaded template WoodHouse2_Ruined.tml with weight 10.
+Ignoring unknown file type: WoodHouse3_Ruined.jpg
+Successfully loaded template WoodHouse3_Ruined.tml with weight 10.
+Ignoring unknown file type: WoodHouse_Ruined.jpg
+Successfully loaded template WoodHouse_Ruined.tml with weight 10.
+Loaded Shrubland ruins templates, biomeID 48
 
 Loading the snow forest ruins templates...
 Successfully loaded template AlchemistsDungeon.tml with weight 10.
@@ -959,6 +1610,240 @@ Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 10.
 Successfully loaded template VanillaVillageForge-r.tml with weight 10.
 Successfully loaded template VanillaVillageHut-r.tml with weight 10.
 Loaded Snow Forest ruins templates, biomeID 49
+
+Loading the snowy rainforest ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 10.
+Successfully loaded template Archway.tml with weight 15.
+Successfully loaded template Barrow.tml with weight 10.
+Successfully loaded template BattleBasementHard.tml with weight 10.
+Successfully loaded template BattleBasementMedium.tml with weight 10.
+Successfully loaded template BlockHenge.tml with weight 10.
+Ignoring unknown file type: CastleModifiedRuined.jpg
+Successfully loaded template CastleModifiedRuined.tml with weight 10.
+Successfully loaded template Gnomeworks.tml with weight 10.
+Successfully loaded template LargeStoneHouse.tml with weight 10.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 10.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 10.
+Successfully loaded template Monolith.tml with weight 10.
+Successfully loaded template Outcrop4_good.tml with weight 10.
+Successfully loaded template PillarBase.tml with weight 10.
+Successfully loaded template Pit-big.tml with weight 10.
+Successfully loaded template Pit-small.tml with weight 10.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 10.
+Successfully loaded template RuinedTripleFountain.tml with weight 12.
+Successfully loaded template TallTower.tml with weight 10.
+Successfully loaded template TEiEN_BigHouse.tml with weight 10.
+Successfully loaded template TEiEN_BrickHouse.tml with weight 10.
+Successfully loaded template TEiEN_Foundation-brick.tml with weight 10.
+Successfully loaded template TEiEN_GraveyardHaunted.tml with weight 10.
+Successfully loaded template TEiEN_LargeBrickHouse.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneHouse.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneHouseWBasement.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneTwoStoryHouse.tml with weight 10.
+Successfully loaded template TEiEN_Road-cross.tml with weight 10.
+Successfully loaded template TEiEN_Road-long.tml with weight 10.
+Successfully loaded template TEiEN_Road-poles.tml with weight 10.
+Successfully loaded template TEiEN_Road-straight.tml with weight 10.
+Successfully loaded template TEiEN_Road-turn.tml with weight 10.
+Successfully loaded template TEiEN_WoodHouse.tml with weight 10.
+Successfully loaded template Tower-ruined-short.tml with weight 15.
+Successfully loaded template TowerMedium.tml with weight 10.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 10.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 10.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 10.
+Successfully loaded template VanillaVillageForge-r.tml with weight 10.
+Successfully loaded template VanillaVillageHut-r.tml with weight 10.
+Loaded Snowy Rainforest ruins templates, biomeID 50
+
+Loading the temperate rainforest ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 10.
+Ignoring unknown file type: Altar.jpg
+Successfully loaded template Altar.tml with weight 10.
+Successfully loaded template AncientFountain.tml with weight 10.
+Successfully loaded template Archway.tml with weight 15.
+Successfully loaded template Barn-ruined.tml with weight 10.
+Successfully loaded template Barrow.tml with weight 10.
+Successfully loaded template BattleBasementHard.tml with weight 10.
+Successfully loaded template BattleBasementMedium.tml with weight 10.
+Successfully loaded template BlockHenge.tml with weight 10.
+Successfully loaded template BrickHouse.tml with weight 10.
+Successfully loaded template BridgePilings-land.tml with weight 10.
+Successfully loaded template BridgePilings-water.tml with weight 10.
+Ignoring unknown file type: BunkerMedium.jpg
+Successfully loaded template BunkerMedium.tml with weight 5.
+Ignoring unknown file type: BunkerSmall.jpg
+Successfully loaded template BunkerSmall.tml with weight 5.
+Ignoring unknown file type: CastleModifiedRuined.jpg
+Successfully loaded template CastleModifiedRuined.tml with weight 10.
+Successfully loaded template DiamondWell.tml with weight 3.
+Successfully loaded template Gazebo.tml with weight 10.
+Successfully loaded template Gnomeworks.tml with weight 10.
+Successfully loaded template GoldWell.tml with weight 5.
+Successfully loaded template GuardHouse.tml with weight 10.
+Successfully loaded template LargeBrickHouse.tml with weight 5.
+Successfully loaded template LargeStoneHouse.tml with weight 10.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 10.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 10.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template Monolith.tml with weight 10.
+Successfully loaded template OldFoundation.tml with weight 10.
+Successfully loaded template Outcrop4_good.tml with weight 10.
+Successfully loaded template PillarBase.tml with weight 10.
+Ignoring unknown file type: Piston-BunkerUnderground.jpg
+Successfully loaded template Piston-BunkerUnderground.tml with weight 5.
+Ignoring unknown file type: Piston-CreeperRoom.jpg
+Successfully loaded template Piston-CreeperRoom.tml with weight 5.
+Successfully loaded template Pit-med.tml with weight 10.
+Successfully loaded template Pit-small.tml with weight 10.
+Ignoring unknown file type: PyramidStone.jpg
+Successfully loaded template PyramidStone.tml with weight 10.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 10.
+Successfully loaded template RuinedTripleFountain.tml with weight 12.
+Successfully loaded template ShortTower.tml with weight 10.
+Successfully loaded template SmallWell.tml with weight 10.
+Successfully loaded template SpiralTree.tml with weight 10.
+Successfully loaded template StoneHenge.tml with weight 10.
+Successfully loaded template StoneHouse.tml with weight 6.
+Ignoring unknown file type: StoneHouseM.jpg
+Successfully loaded template StoneHouseMruined.tml with weight 10.
+Ignoring unknown file type: StoneHouse_Ruined.jpg
+Successfully loaded template StoneHouse_Ruined.tml with weight 10.
+Successfully loaded template TallTower.tml with weight 10.
+Successfully loaded template TEiEN_BigHouse.tml with weight 10.
+Successfully loaded template TEiEN_BrickHouse.tml with weight 10.
+Successfully loaded template TEiEN_Foundation-brick.tml with weight 10.
+Successfully loaded template TEiEN_GraveyardHaunted.tml with weight 10.
+Successfully loaded template TEiEN_LargeBrickHouse.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneHouse.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneHouseWBasement.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneTwoStoryHouse.tml with weight 10.
+Successfully loaded template TEiEN_LookoutTower.tml with weight 1.
+Successfully loaded template TEiEN_Road-cross.tml with weight 10.
+Successfully loaded template TEiEN_Road-long.tml with weight 10.
+Successfully loaded template TEiEN_Road-poles.tml with weight 10.
+Successfully loaded template TEiEN_Road-straight.tml with weight 10.
+Successfully loaded template TEiEN_Road-turn.tml with weight 10.
+Successfully loaded template TEiEN_WoodHouse.tml with weight 10.
+Successfully loaded template TinyFarmField.tml with weight 10.
+Successfully loaded template Tower-edit.tml with weight 6.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TreeDungeon.tml with weight 5.
+Successfully loaded template TreeHouse.tml with weight 10.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 10.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 10.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 10.
+Successfully loaded template VanillaVillageForge-r.tml with weight 10.
+Successfully loaded template VanillaVillageHut-r.tml with weight 10.
+Successfully loaded template VolcanicVent3_good.tml with weight 5.
+Ignoring unknown file type: WatchtowerIntact.jpg
+Successfully loaded template WatchtowerIntact.tml with weight 5.
+Ignoring unknown file type: WatchtowerRuined.jpg
+Successfully loaded template WatchtowerRuined.tml with weight 10.
+Successfully loaded template WoodHouse.tml with weight 2.
+Ignoring unknown file type: WoodHouse2_Ruined.jpg
+Successfully loaded template WoodHouse2_Ruined.tml with weight 10.
+Ignoring unknown file type: WoodHouse3_Ruined.jpg
+Successfully loaded template WoodHouse3_Ruined.tml with weight 10.
+Ignoring unknown file type: WoodHouse_Ruined.jpg
+Successfully loaded template WoodHouse_Ruined.tml with weight 10.
+Loaded Temperate Rainforest ruins templates, biomeID 51
+
+Loading the tundra ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 10.
+Ignoring unknown file type: Altar.jpg
+Successfully loaded template Altar.tml with weight 10.
+Successfully loaded template AncientFountain.tml with weight 10.
+Successfully loaded template Archway.tml with weight 15.
+Successfully loaded template Barn-ruined.tml with weight 10.
+Successfully loaded template Barrow.tml with weight 10.
+Successfully loaded template BattleBasementHard.tml with weight 10.
+Successfully loaded template BattleBasementMedium.tml with weight 10.
+Successfully loaded template BlockHenge.tml with weight 10.
+Successfully loaded template BrickHouse.tml with weight 10.
+Successfully loaded template BridgePilings-land.tml with weight 10.
+Successfully loaded template BridgePilings-water.tml with weight 10.
+Ignoring unknown file type: BunkerMedium.jpg
+Successfully loaded template BunkerMedium.tml with weight 5.
+Ignoring unknown file type: BunkerSmall.jpg
+Successfully loaded template BunkerSmall.tml with weight 5.
+Ignoring unknown file type: CastleModifiedRuined.jpg
+Successfully loaded template CastleModifiedRuined.tml with weight 10.
+Successfully loaded template DiamondWell.tml with weight 3.
+Successfully loaded template Gazebo.tml with weight 10.
+Successfully loaded template Gnomeworks.tml with weight 10.
+Successfully loaded template GoldWell.tml with weight 5.
+Successfully loaded template GuardHouse.tml with weight 10.
+Successfully loaded template LargeBrickHouse.tml with weight 5.
+Successfully loaded template LargeStoneHouse.tml with weight 10.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 10.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 10.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template Monolith.tml with weight 10.
+Successfully loaded template OldFoundation.tml with weight 10.
+Successfully loaded template Outcrop4_good.tml with weight 10.
+Successfully loaded template PillarBase.tml with weight 10.
+Ignoring unknown file type: Piston-BunkerUnderground.jpg
+Successfully loaded template Piston-BunkerUnderground.tml with weight 5.
+Ignoring unknown file type: Piston-CreeperRoom.jpg
+Successfully loaded template Piston-CreeperRoom.tml with weight 5.
+Successfully loaded template Pit-big.tml with weight 10.
+Successfully loaded template Pit-med.tml with weight 10.
+Successfully loaded template Pit-small.tml with weight 10.
+Ignoring unknown file type: PyramidStone.jpg
+Successfully loaded template PyramidStone.tml with weight 10.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 10.
+Successfully loaded template RuinedTripleFountain.tml with weight 12.
+Successfully loaded template ShortTower.tml with weight 10.
+Successfully loaded template SmallWell.tml with weight 10.
+Successfully loaded template SpearStatue.tml with weight 10.
+Successfully loaded template SpiralTree.tml with weight 10.
+Successfully loaded template StoneHenge.tml with weight 10.
+Successfully loaded template StoneHouse.tml with weight 6.
+Ignoring unknown file type: StoneHouseM.jpg
+Successfully loaded template StoneHouseMruined.tml with weight 10.
+Ignoring unknown file type: StoneHouse_Ruined.jpg
+Successfully loaded template StoneHouse_Ruined.tml with weight 10.
+Successfully loaded template TallTower.tml with weight 10.
+Successfully loaded template TEiEN-Sewer2.tml with weight 10.
+Successfully loaded template TEiEN_BigHouse.tml with weight 10.
+Successfully loaded template TEiEN_BrickHouse.tml with weight 10.
+Successfully loaded template TEiEN_Foundation-brick.tml with weight 10.
+Successfully loaded template TEiEN_GraveyardHaunted.tml with weight 10.
+Successfully loaded template TEiEN_LargeBrickHouse.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneHouse.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneHouseWBasement.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneTwoStoryHouse.tml with weight 10.
+Successfully loaded template TEiEN_LookoutTower.tml with weight 1.
+Successfully loaded template TEiEN_Road-cross.tml with weight 10.
+Successfully loaded template TEiEN_Road-long.tml with weight 10.
+Successfully loaded template TEiEN_Road-poles.tml with weight 10.
+Successfully loaded template TEiEN_Road-straight.tml with weight 10.
+Successfully loaded template TEiEN_Road-turn.tml with weight 10.
+Successfully loaded template TEiEN_WoodHouse.tml with weight 10.
+Successfully loaded template TinyFarmField.tml with weight 10.
+Successfully loaded template Tower-edit.tml with weight 6.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TowerEasy.tml with weight 10.
+Successfully loaded template TowerMedium.tml with weight 10.
+Successfully loaded template UNderground Ruin.tml with weight 10.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 10.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 10.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 10.
+Successfully loaded template VanillaVillageForge-r.tml with weight 10.
+Successfully loaded template VanillaVillageHut-r.tml with weight 10.
+Successfully loaded template VolcanicVent3_good.tml with weight 5.
+Ignoring unknown file type: WatchtowerIntact.jpg
+Successfully loaded template WatchtowerIntact.tml with weight 5.
+Ignoring unknown file type: WatchtowerRuined.jpg
+Successfully loaded template WatchtowerRuined.tml with weight 10.
+Successfully loaded template WoodHouse.tml with weight 2.
+Ignoring unknown file type: WoodHouse2_Ruined.jpg
+Successfully loaded template WoodHouse2_Ruined.tml with weight 10.
+Ignoring unknown file type: WoodHouse3_Ruined.jpg
+Successfully loaded template WoodHouse3_Ruined.tml with weight 10.
+Ignoring unknown file type: WoodHouse_Ruined.jpg
+Successfully loaded template WoodHouse_Ruined.tml with weight 10.
+Loaded Tundra ruins templates, biomeID 52
 
 Loading the wasteland ruins templates...
 Successfully loaded template TEiEN_BankTower3.tml with weight 80.
@@ -5045,6 +5930,99 @@ Ignoring unknown file type: WoodHouse_Ruined.jpg
 Successfully loaded template WoodHouse_Ruined.tml with weight 10.
 Loaded Autumn Woods ruins templates, biomeID 168
 
+Loading the birch forest ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 10.
+Ignoring unknown file type: Altar.jpg
+Successfully loaded template Altar.tml with weight 10.
+Successfully loaded template AncientFountain.tml with weight 10.
+Successfully loaded template Archway.tml with weight 15.
+Successfully loaded template Barn-ruined.tml with weight 10.
+Successfully loaded template Barrow.tml with weight 10.
+Successfully loaded template BattleBasementHard.tml with weight 10.
+Successfully loaded template BattleBasementMedium.tml with weight 10.
+Successfully loaded template BlockHenge.tml with weight 10.
+Successfully loaded template BrickHouse.tml with weight 10.
+Successfully loaded template BridgePilings-land.tml with weight 10.
+Successfully loaded template BridgePilings-water.tml with weight 10.
+Ignoring unknown file type: BunkerMedium.jpg
+Successfully loaded template BunkerMedium.tml with weight 5.
+Ignoring unknown file type: BunkerSmall.jpg
+Successfully loaded template BunkerSmall.tml with weight 5.
+Ignoring unknown file type: CastleModifiedRuined.jpg
+Successfully loaded template CastleModifiedRuined.tml with weight 10.
+Successfully loaded template DiamondWell.tml with weight 3.
+Successfully loaded template Gazebo.tml with weight 10.
+Successfully loaded template Gnomeworks.tml with weight 10.
+Successfully loaded template GoldWell.tml with weight 5.
+Successfully loaded template GuardHouse.tml with weight 10.
+Successfully loaded template LargeBrickHouse.tml with weight 5.
+Successfully loaded template LargeStoneHouse.tml with weight 10.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 10.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 10.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template Monolith.tml with weight 10.
+Successfully loaded template OldFoundation.tml with weight 10.
+Successfully loaded template Outcrop4_good.tml with weight 10.
+Successfully loaded template PillarBase.tml with weight 10.
+Ignoring unknown file type: Piston-BunkerUnderground.jpg
+Successfully loaded template Piston-BunkerUnderground.tml with weight 5.
+Ignoring unknown file type: Piston-CreeperRoom.jpg
+Successfully loaded template Piston-CreeperRoom.tml with weight 5.
+Successfully loaded template Pit-med.tml with weight 10.
+Successfully loaded template Pit-small.tml with weight 10.
+Ignoring unknown file type: PyramidStone.jpg
+Successfully loaded template PyramidStone.tml with weight 10.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 10.
+Successfully loaded template RuinedTripleFountain.tml with weight 12.
+Successfully loaded template ShortTower.tml with weight 10.
+Successfully loaded template SmallWell.tml with weight 10.
+Successfully loaded template SpiralTree.tml with weight 10.
+Successfully loaded template StoneHenge.tml with weight 10.
+Successfully loaded template StoneHouse.tml with weight 6.
+Ignoring unknown file type: StoneHouseM.jpg
+Successfully loaded template StoneHouseMruined.tml with weight 10.
+Ignoring unknown file type: StoneHouse_Ruined.jpg
+Successfully loaded template StoneHouse_Ruined.tml with weight 10.
+Successfully loaded template TallTower.tml with weight 10.
+Successfully loaded template TEiEN_BigHouse.tml with weight 10.
+Successfully loaded template TEiEN_BrickHouse.tml with weight 10.
+Successfully loaded template TEiEN_Foundation-brick.tml with weight 10.
+Successfully loaded template TEiEN_GraveyardHaunted.tml with weight 10.
+Successfully loaded template TEiEN_LargeBrickHouse.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneHouse.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneHouseWBasement.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneTwoStoryHouse.tml with weight 10.
+Successfully loaded template TEiEN_LookoutTower.tml with weight 1.
+Successfully loaded template TEiEN_Road-cross.tml with weight 10.
+Successfully loaded template TEiEN_Road-long.tml with weight 10.
+Successfully loaded template TEiEN_Road-poles.tml with weight 10.
+Successfully loaded template TEiEN_Road-straight.tml with weight 10.
+Successfully loaded template TEiEN_Road-turn.tml with weight 10.
+Successfully loaded template TEiEN_WoodHouse.tml with weight 10.
+Successfully loaded template TinyFarmField.tml with weight 10.
+Successfully loaded template Tower-edit.tml with weight 6.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TreeDungeon.tml with weight 5.
+Successfully loaded template TreeHouse.tml with weight 10.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 10.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 10.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 10.
+Successfully loaded template VanillaVillageForge-r.tml with weight 10.
+Successfully loaded template VanillaVillageHut-r.tml with weight 10.
+Successfully loaded template VolcanicVent3_good.tml with weight 5.
+Ignoring unknown file type: WatchtowerIntact.jpg
+Successfully loaded template WatchtowerIntact.tml with weight 5.
+Ignoring unknown file type: WatchtowerRuined.jpg
+Successfully loaded template WatchtowerRuined.tml with weight 10.
+Successfully loaded template WoodHouse.tml with weight 2.
+Ignoring unknown file type: WoodHouse2_Ruined.jpg
+Successfully loaded template WoodHouse2_Ruined.tml with weight 10.
+Ignoring unknown file type: WoodHouse3_Ruined.jpg
+Successfully loaded template WoodHouse3_Ruined.tml with weight 10.
+Ignoring unknown file type: WoodHouse_Ruined.jpg
+Successfully loaded template WoodHouse_Ruined.tml with weight 10.
+Loaded Birch Forest ruins templates, biomeID 169
+
 Loading the extreme jungle ruins templates...
 Ignoring unknown file type: Altar.jpg
 Successfully loaded template Altar.tml with weight 10.
@@ -5283,6 +6261,106 @@ Ignoring unknown file type: WoodHouse_Ruined.jpg
 Successfully loaded template WoodHouse_Ruined.tml with weight 10.
 Loaded Forested Island ruins templates, biomeID 172
 
+Loading the glacier ruins templates...
+Loaded Glacier ruins templates, biomeID 173
+
+Loading the green hills ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 10.
+Ignoring unknown file type: Altar.jpg
+Successfully loaded template Altar.tml with weight 10.
+Successfully loaded template AncientFountain.tml with weight 10.
+Successfully loaded template Archway.tml with weight 15.
+Successfully loaded template Barn-ruined.tml with weight 10.
+Successfully loaded template Barrow.tml with weight 10.
+Successfully loaded template BattleBasementHard.tml with weight 10.
+Successfully loaded template BattleBasementMedium.tml with weight 10.
+Successfully loaded template BlockHenge.tml with weight 10.
+Successfully loaded template BrickHouse.tml with weight 10.
+Successfully loaded template BridgePilings-land.tml with weight 10.
+Successfully loaded template BridgePilings-water.tml with weight 10.
+Ignoring unknown file type: BunkerMedium.jpg
+Successfully loaded template BunkerMedium.tml with weight 5.
+Ignoring unknown file type: BunkerSmall.jpg
+Successfully loaded template BunkerSmall.tml with weight 5.
+Ignoring unknown file type: CastleModifiedRuined.jpg
+Successfully loaded template CastleModifiedRuined.tml with weight 10.
+Successfully loaded template DiamondWell.tml with weight 3.
+Successfully loaded template Gazebo.tml with weight 10.
+Successfully loaded template Gnomeworks.tml with weight 10.
+Successfully loaded template GoldWell.tml with weight 5.
+Successfully loaded template GuardHouse.tml with weight 10.
+Successfully loaded template LargeBrickHouse.tml with weight 5.
+Successfully loaded template LargeStoneHouse.tml with weight 10.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 10.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 10.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template Monolith.tml with weight 10.
+Successfully loaded template OldFoundation.tml with weight 10.
+Successfully loaded template Outcrop4_good.tml with weight 10.
+Successfully loaded template PillarBase.tml with weight 10.
+Ignoring unknown file type: Piston-BunkerUnderground.jpg
+Successfully loaded template Piston-BunkerUnderground.tml with weight 5.
+Ignoring unknown file type: Piston-CreeperRoom.jpg
+Successfully loaded template Piston-CreeperRoom.tml with weight 5.
+Successfully loaded template Pit-big.tml with weight 10.
+Successfully loaded template Pit-med.tml with weight 10.
+Successfully loaded template Pit-small.tml with weight 10.
+Ignoring unknown file type: PyramidStone.jpg
+Successfully loaded template PyramidStone.tml with weight 10.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 10.
+Successfully loaded template RuinedTripleFountain.tml with weight 12.
+Successfully loaded template ShortTower.tml with weight 10.
+Successfully loaded template SmallWell.tml with weight 10.
+Successfully loaded template SpearStatue.tml with weight 10.
+Successfully loaded template SpiralTree.tml with weight 10.
+Successfully loaded template StoneHenge.tml with weight 10.
+Successfully loaded template StoneHouse.tml with weight 6.
+Ignoring unknown file type: StoneHouseM.jpg
+Successfully loaded template StoneHouseMruined.tml with weight 10.
+Ignoring unknown file type: StoneHouse_Ruined.jpg
+Successfully loaded template StoneHouse_Ruined.tml with weight 10.
+Successfully loaded template TallTower.tml with weight 10.
+Successfully loaded template TEiEN-Sewer2.tml with weight 10.
+Successfully loaded template TEiEN_BigHouse.tml with weight 10.
+Successfully loaded template TEiEN_BrickHouse.tml with weight 10.
+Successfully loaded template TEiEN_Foundation-brick.tml with weight 10.
+Successfully loaded template TEiEN_GraveyardHaunted.tml with weight 10.
+Successfully loaded template TEiEN_LargeBrickHouse.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneHouse.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneHouseWBasement.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneTwoStoryHouse.tml with weight 10.
+Successfully loaded template TEiEN_LookoutTower.tml with weight 1.
+Successfully loaded template TEiEN_Road-cross.tml with weight 10.
+Successfully loaded template TEiEN_Road-long.tml with weight 10.
+Successfully loaded template TEiEN_Road-poles.tml with weight 10.
+Successfully loaded template TEiEN_Road-straight.tml with weight 10.
+Successfully loaded template TEiEN_Road-turn.tml with weight 10.
+Successfully loaded template TEiEN_WoodHouse.tml with weight 10.
+Successfully loaded template TinyFarmField.tml with weight 10.
+Successfully loaded template Tower-edit.tml with weight 6.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TowerEasy.tml with weight 10.
+Successfully loaded template TowerMedium.tml with weight 10.
+Successfully loaded template UNderground Ruin.tml with weight 10.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 10.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 10.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 10.
+Successfully loaded template VanillaVillageForge-r.tml with weight 10.
+Successfully loaded template VanillaVillageHut-r.tml with weight 10.
+Successfully loaded template VolcanicVent3_good.tml with weight 5.
+Ignoring unknown file type: WatchtowerIntact.jpg
+Successfully loaded template WatchtowerIntact.tml with weight 5.
+Ignoring unknown file type: WatchtowerRuined.jpg
+Successfully loaded template WatchtowerRuined.tml with weight 10.
+Successfully loaded template WoodHouse.tml with weight 2.
+Ignoring unknown file type: WoodHouse2_Ruined.jpg
+Successfully loaded template WoodHouse2_Ruined.tml with weight 10.
+Ignoring unknown file type: WoodHouse3_Ruined.jpg
+Successfully loaded template WoodHouse3_Ruined.tml with weight 10.
+Ignoring unknown file type: WoodHouse_Ruined.jpg
+Successfully loaded template WoodHouse_Ruined.tml with weight 10.
+Loaded Green Hills ruins templates, biomeID 174
+
 Loading the green swamplands ruins templates...
 Successfully loaded template AlchemistsDungeon.tml with weight 10.
 Successfully loaded template BattleBasementHard.tml with weight 10.
@@ -5340,6 +6418,216 @@ Successfully loaded template WoodHouse3_Ruined.tml with weight 10.
 Ignoring unknown file type: WoodHouse_Ruined.jpg
 Successfully loaded template WoodHouse_Ruined.tml with weight 10.
 Loaded Green Swamplands ruins templates, biomeID 175
+
+Loading the ice wasteland ruins templates...
+Loaded Ice Wasteland ruins templates, biomeID 176
+
+Loading the marsh ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 10.
+Successfully loaded template BattleBasementHard.tml with weight 10.
+Successfully loaded template BattleBasementMedium.tml with weight 10.
+Successfully loaded template BlockHenge.tml with weight 10.
+Successfully loaded template BridgePilings-land.tml with weight 10.
+Successfully loaded template BridgePilings-lg2.tml with weight 5.
+Successfully loaded template BridgePilings-sm2.tml with weight 5.
+Successfully loaded template BridgePilings-water.tml with weight 10.
+Successfully loaded template Gazebo.tml with weight 10.
+Successfully loaded template GraveyardHaunted.tml with weight 5.
+Successfully loaded template LargeBrickHouse.tml with weight 5.
+Successfully loaded template LargeStoneHouse.tml with weight 10.
+Successfully loaded template Monolith.tml with weight 10.
+Successfully loaded template Outcrop4_good.tml with weight 10.
+Ignoring unknown file type: Piston-CreeperRoom.jpg
+Successfully loaded template Piston-CreeperRoom.tml with weight 5.
+Successfully loaded template Pit-med.tml with weight 10.
+Successfully loaded template Pit-small.tml with weight 10.
+Ignoring unknown file type: PyramidStone.jpg
+Successfully loaded template PyramidStone.tml with weight 10.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 10.
+Successfully loaded template RuinedTripleFountain.tml with weight 12.
+Successfully loaded template ShortTower.tml with weight 10.
+Successfully loaded template SpiralTree.tml with weight 10.
+Successfully loaded template StoneHouse.tml with weight 6.
+Ignoring unknown file type: StoneHouseM.jpg
+Successfully loaded template StoneHouseMruined.tml with weight 10.
+Ignoring unknown file type: StoneHouse_Ruined.jpg
+Successfully loaded template StoneHouse_Ruined.tml with weight 10.
+Successfully loaded template TallTower.tml with weight 10.
+Successfully loaded template TEiEN-Sewer2.tml with weight 10.
+Successfully loaded template TEiEN_Foundation-brick.tml with weight 10.
+Successfully loaded template TEiEN_GraveyardHaunted.tml with weight 10.
+Successfully loaded template TEiEN_Road-cross.tml with weight 10.
+Successfully loaded template TEiEN_Road-long.tml with weight 10.
+Successfully loaded template TEiEN_Road-poles.tml with weight 10.
+Successfully loaded template TEiEN_Road-straight.tml with weight 10.
+Successfully loaded template TEiEN_Road-turn.tml with weight 10.
+Successfully loaded template TEiEN_WoodHouse.tml with weight 10.
+Successfully loaded template Tower-edit.tml with weight 6.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TreeDungeon.tml with weight 5.
+Successfully loaded template TreeHouse.tml with weight 10.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 10.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 10.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 10.
+Successfully loaded template VanillaVillageForge-r.tml with weight 10.
+Successfully loaded template VanillaVillageHut-r.tml with weight 10.
+Successfully loaded template WoodHouse.tml with weight 2.
+Ignoring unknown file type: WoodHouse2_Ruined.jpg
+Successfully loaded template WoodHouse2_Ruined.tml with weight 10.
+Ignoring unknown file type: WoodHouse3_Ruined.jpg
+Successfully loaded template WoodHouse3_Ruined.tml with weight 10.
+Ignoring unknown file type: WoodHouse_Ruined.jpg
+Successfully loaded template WoodHouse_Ruined.tml with weight 10.
+Loaded Marsh ruins templates, biomeID 177
+
+Loading the meadow ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 10.
+Ignoring unknown file type: Altar.jpg
+Successfully loaded template Altar.tml with weight 10.
+Successfully loaded template AncientFountain.tml with weight 10.
+Successfully loaded template Archway.tml with weight 15.
+Successfully loaded template Barn-ruined.tml with weight 10.
+Successfully loaded template Barrow.tml with weight 10.
+Successfully loaded template BattleBasementHard.tml with weight 10.
+Successfully loaded template BattleBasementMedium.tml with weight 10.
+Successfully loaded template BlockHenge.tml with weight 10.
+Successfully loaded template BrickHouse.tml with weight 10.
+Successfully loaded template BridgePilings-land.tml with weight 10.
+Successfully loaded template BridgePilings-water.tml with weight 10.
+Ignoring unknown file type: BunkerMedium.jpg
+Successfully loaded template BunkerMedium.tml with weight 5.
+Ignoring unknown file type: BunkerSmall.jpg
+Successfully loaded template BunkerSmall.tml with weight 5.
+Ignoring unknown file type: CastleModifiedRuined.jpg
+Successfully loaded template CastleModifiedRuined.tml with weight 10.
+Successfully loaded template DiamondWell.tml with weight 3.
+Successfully loaded template Gazebo.tml with weight 10.
+Successfully loaded template Gnomeworks.tml with weight 10.
+Successfully loaded template GoldWell.tml with weight 5.
+Successfully loaded template GuardHouse.tml with weight 10.
+Successfully loaded template LargeBrickHouse.tml with weight 5.
+Successfully loaded template LargeStoneHouse.tml with weight 10.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 10.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 10.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template Monolith.tml with weight 10.
+Successfully loaded template OldFoundation.tml with weight 10.
+Successfully loaded template Outcrop4_good.tml with weight 10.
+Successfully loaded template PillarBase.tml with weight 10.
+Ignoring unknown file type: Piston-BunkerUnderground.jpg
+Successfully loaded template Piston-BunkerUnderground.tml with weight 5.
+Ignoring unknown file type: Piston-CreeperRoom.jpg
+Successfully loaded template Piston-CreeperRoom.tml with weight 5.
+Successfully loaded template Pit-big.tml with weight 10.
+Successfully loaded template Pit-med.tml with weight 10.
+Successfully loaded template Pit-small.tml with weight 10.
+Ignoring unknown file type: PyramidStone.jpg
+Successfully loaded template PyramidStone.tml with weight 10.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 10.
+Successfully loaded template RuinedTripleFountain.tml with weight 12.
+Successfully loaded template ShortTower.tml with weight 10.
+Successfully loaded template SmallWell.tml with weight 10.
+Successfully loaded template SpearStatue.tml with weight 10.
+Successfully loaded template SpiralTree.tml with weight 10.
+Successfully loaded template StoneHenge.tml with weight 10.
+Successfully loaded template StoneHouse.tml with weight 6.
+Ignoring unknown file type: StoneHouseM.jpg
+Successfully loaded template StoneHouseMruined.tml with weight 10.
+Ignoring unknown file type: StoneHouse_Ruined.jpg
+Successfully loaded template StoneHouse_Ruined.tml with weight 10.
+Successfully loaded template TallTower.tml with weight 10.
+Successfully loaded template TEiEN-Sewer2.tml with weight 10.
+Successfully loaded template TEiEN_BigHouse.tml with weight 10.
+Successfully loaded template TEiEN_BrickHouse.tml with weight 10.
+Successfully loaded template TEiEN_Foundation-brick.tml with weight 10.
+Successfully loaded template TEiEN_GraveyardHaunted.tml with weight 10.
+Successfully loaded template TEiEN_LargeBrickHouse.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneHouse.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneHouseWBasement.tml with weight 10.
+Successfully loaded template TEiEN_LargeStoneTwoStoryHouse.tml with weight 10.
+Successfully loaded template TEiEN_LookoutTower.tml with weight 1.
+Successfully loaded template TEiEN_Road-cross.tml with weight 10.
+Successfully loaded template TEiEN_Road-long.tml with weight 10.
+Successfully loaded template TEiEN_Road-poles.tml with weight 10.
+Successfully loaded template TEiEN_Road-straight.tml with weight 10.
+Successfully loaded template TEiEN_Road-turn.tml with weight 10.
+Successfully loaded template TEiEN_WoodHouse.tml with weight 10.
+Successfully loaded template TinyFarmField.tml with weight 10.
+Successfully loaded template Tower-edit.tml with weight 6.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TowerEasy.tml with weight 10.
+Successfully loaded template TowerMedium.tml with weight 10.
+Successfully loaded template UNderground Ruin.tml with weight 10.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 10.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 10.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 10.
+Successfully loaded template VanillaVillageForge-r.tml with weight 10.
+Successfully loaded template VanillaVillageHut-r.tml with weight 10.
+Successfully loaded template VolcanicVent3_good.tml with weight 5.
+Ignoring unknown file type: WatchtowerIntact.jpg
+Successfully loaded template WatchtowerIntact.tml with weight 5.
+Ignoring unknown file type: WatchtowerRuined.jpg
+Successfully loaded template WatchtowerRuined.tml with weight 10.
+Successfully loaded template WoodHouse.tml with weight 2.
+Ignoring unknown file type: WoodHouse2_Ruined.jpg
+Successfully loaded template WoodHouse2_Ruined.tml with weight 10.
+Ignoring unknown file type: WoodHouse3_Ruined.jpg
+Successfully loaded template WoodHouse3_Ruined.tml with weight 10.
+Ignoring unknown file type: WoodHouse_Ruined.jpg
+Successfully loaded template WoodHouse_Ruined.tml with weight 10.
+Loaded Meadow ruins templates, biomeID 178
+
+Loading the mini jungle ruins templates...
+Ignoring unknown file type: Altar.jpg
+Successfully loaded template Altar.tml with weight 10.
+Successfully loaded template BattleBasementHard.tml with weight 10.
+Successfully loaded template BattleBasementMedium.tml with weight 10.
+Successfully loaded template BridgePilings-land.tml with weight 10.
+Successfully loaded template BridgePilings-sm2.tml with weight 10.
+Successfully loaded template BridgePilings-water.tml with weight 10.
+Ignoring unknown file type: BunkerMedium.jpg
+Successfully loaded template BunkerMedium.tml with weight 5.
+Ignoring unknown file type: BunkerSmall.jpg
+Successfully loaded template BunkerSmall.tml with weight 5.
+Ignoring unknown file type: CastleModifiedRuined.jpg
+Successfully loaded template CastleModifiedRuined.tml with weight 10.
+Successfully loaded template Gnomeworks.tml with weight 10.
+Successfully loaded template JungleSpiderBurrow.tml with weight 10.
+Successfully loaded template JungleThroneWood.tml with weight 10.
+Successfully loaded template JungleTreePlatform.tml with weight 10.
+Successfully loaded template JungleTreePlatform_edit.tml with weight 10.
+Successfully loaded template Mausoleum.tml with weight 10.
+Successfully loaded template Monolith.tml with weight 10.
+Successfully loaded template OreSpire.tml with weight 10.
+Successfully loaded template Outcrop4_good.tml with weight 10.
+Ignoring unknown file type: Piston-BunkerUnderground.jpg
+Successfully loaded template Piston-BunkerUnderground.tml with weight 5.
+Ignoring unknown file type: Piston-CreeperRoom.jpg
+Successfully loaded template Piston-CreeperRoom.tml with weight 5.
+Successfully loaded template Pit-med.tml with weight 10.
+Successfully loaded template Pit-small.tml with weight 10.
+Ignoring unknown file type: PyramidStone.jpg
+Successfully loaded template PyramidStone.tml with weight 10.
+Successfully loaded template SpiralTree.tml with weight 10.
+Successfully loaded template TallTower.tml with weight 10.
+Successfully loaded template TEiEN_Road-cross.tml with weight 10.
+Successfully loaded template TEiEN_Road-long.tml with weight 10.
+Successfully loaded template TEiEN_Road-poles.tml with weight 10.
+Successfully loaded template TEiEN_Road-straight.tml with weight 10.
+Successfully loaded template TEiEN_Road-turn.tml with weight 10.
+Successfully loaded template Tower-edit.tml with weight 6.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TowerEasy.tml with weight 10.
+Successfully loaded template TowerMedium.tml with weight 10.
+Successfully loaded template TreeDungeon.tml with weight 5.
+Successfully loaded template TreeHouse.tml with weight 10.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 10.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 10.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 10.
+Successfully loaded template VanillaVillageForge-r.tml with weight 10.
+Successfully loaded template VanillaVillageHut-r.tml with weight 10.
+Successfully loaded template WaterTrapRoom.tml with weight 10.
+Loaded Mini Jungle ruins templates, biomeID 179
 
 Loading the oasis ruins templates...
 Successfully loaded template Beacon.tml with weight 10.
@@ -7829,11 +9117,11 @@ Loaded Limbo ruins templates, biomeID 254
 Loading the pocket dimension ruins templates...
 Loaded Pocket Dimension ruins templates, biomeID 255
 
-Loading excluded list from: E:\Minecraft\MultiMC5\instances\Rogue Science 1.6\minecraft\saves\New World 16\DimensionalDoors\pocketDimID4
+Loading excluded list from: E:\Minecraft\MultiMC5\instances\Rogue-Science-1.6\minecraft\saves\New World 17\DimensionalDoors\pocketDimID13
 No exclusions found for this world.
 
-Loading options from: E:\Minecraft\MultiMC5\instances\Rogue Science 1.6\minecraft\saves\New World 16\DimensionalDoors\pocketDimID4
-Ruins is now loading the rotation mappings file E:\Minecraft\MultiMC5\instances\Rogue Science 1.6\minecraft\mods\resources\ruins\rotation_mappings.txt
+Loading options from: E:\Minecraft\MultiMC5\instances\Rogue-Science-1.6\minecraft\saves\New World 17\DimensionalDoors\pocketDimID13
+Ruins is now loading the rotation mappings file E:\Minecraft\MultiMC5\instances\Rogue-Science-1.6\minecraft\mods\resources\ruins\rotation_mappings.txt
 Now reading mappings for [53;67;108;109;114;128;134;135;136]
 Saving Mapping DIR[1] FROM[0] TO[2]
 Saving Mapping DIR[1] FROM[1] TO[3]

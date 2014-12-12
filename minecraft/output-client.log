@@ -597,3 +597,50 @@
 2014-12-10 22:54:52 [CLIENT] [INFO] [CHAT] Added new ores, more configuration options, renamed textures (sorry resource packs!). Armed ores emit smoke again!
 2014-12-10 22:56:47 [CLIENT] [INFO] [CHAT] Your game mode has been updated
 2014-12-10 23:01:43 [CLIENT] [INFO] Stopping!
+2014-12-11 20:42:12 [CLIENT] [INFO] Setting user: longwing
+2014-12-11 20:42:12 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-12-11 20:42:13 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-12-11 20:42:19 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:PowerCrystals Core, FMLFileResourcePack:Damage Indicators, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:CrystalWing, FMLFileResourcePack:FloatingRuins, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Wild Caves 3, FMLFileResourcePack:Custom Recipes, FMLFileResourcePack:Animated Player Mod, FMLFileResourcePack:Armor Bar Mod, FMLFileResourcePack:Alternate Terrain Generation, FMLFileResourcePack:Backpack, FMLFileResourcePack:Battle Towers, FMLFileResourcePack:Chocolate quest, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:BiblioWoods Biomes O'Plenty Edition, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Buff Bar Mod, FMLFileResourcePack:Dimensional Doors, FMLFileResourcePack:DrZhark's Mo'Creatures Mod, FMLFileResourcePack:Enchanting Plus, FMLFileResourcePack:ExtrabiomesXL, FMLFileResourcePack:Finder Compass, FMLFileResourcePack:Immibis Core, FMLFileResourcePack:Infernal Mobs, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Just Another Spawner, FMLFileResourcePack:JAS Compatability, FMLFileResourcePack:Mystcraft, FMLFileResourcePack:Natura, FMLFileResourcePack:Nether Ores, FMLFileResourcePack:Project Zulu Block and Items, FMLFileResourcePack:Project Zulu Core, FMLFileResourcePack:Project Zulu Dungeon, FMLFileResourcePack:Project Zulu Mobs, FMLFileResourcePack:Project Zulu World, FMLFileResourcePack:RedLogic, FMLFileResourcePack:Reliquary, FMLFileResourcePack:Ropes+, FMLFileResourcePack:Ruins Spawning System, FMLFileResourcePack:The SecretRoomsMod, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:The Twilight Forest
+2014-12-11 20:42:28 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_3284_bookshelf.png
+2014-12-11 20:42:28 [CLIENT] [SEVERE] Unable to parse animation metadata from extrabiomesxl:textures/blocks/logsakuraside.png: broken aspect ratio and not an animation
+2014-12-11 20:42:28 [CLIENT] [SEVERE] Using missing texture, unable to load: projectzulublock:textures/blocks/potion.png
+2014-12-11 20:42:29 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/bow.png
+2014-12-11 20:42:37 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:PowerCrystals Core, FMLFileResourcePack:Damage Indicators, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:CrystalWing, FMLFileResourcePack:FloatingRuins, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Wild Caves 3, FMLFileResourcePack:Custom Recipes, FMLFileResourcePack:Animated Player Mod, FMLFileResourcePack:Armor Bar Mod, FMLFileResourcePack:Alternate Terrain Generation, FMLFileResourcePack:Backpack, FMLFileResourcePack:Battle Towers, FMLFileResourcePack:Chocolate quest, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:BiblioWoods Biomes O'Plenty Edition, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Buff Bar Mod, FMLFileResourcePack:Dimensional Doors, FMLFileResourcePack:DrZhark's Mo'Creatures Mod, FMLFileResourcePack:Enchanting Plus, FMLFileResourcePack:ExtrabiomesXL, FMLFileResourcePack:Finder Compass, FMLFileResourcePack:Immibis Core, FMLFileResourcePack:Infernal Mobs, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Just Another Spawner, FMLFileResourcePack:JAS Compatability, FMLFileResourcePack:Mystcraft, FMLFileResourcePack:Natura, FMLFileResourcePack:Nether Ores, FMLFileResourcePack:Project Zulu Block and Items, FMLFileResourcePack:Project Zulu Core, FMLFileResourcePack:Project Zulu Dungeon, FMLFileResourcePack:Project Zulu Mobs, FMLFileResourcePack:Project Zulu World, FMLFileResourcePack:RedLogic, FMLFileResourcePack:Reliquary, FMLFileResourcePack:Ropes+, FMLFileResourcePack:Ruins Spawning System, FMLFileResourcePack:The SecretRoomsMod, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:The Twilight Forest
+2014-12-11 20:42:38 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/bow.png
+2014-12-11 20:42:39 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_3284_bookshelf.png
+2014-12-11 20:42:39 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_589_BetterDungeonSpawner.png
+2014-12-11 20:42:39 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/planks.png
+2014-12-11 20:42:39 [CLIENT] [SEVERE] Unable to parse animation metadata from extrabiomesxl:textures/blocks/logsakuraside.png: broken aspect ratio and not an animation
+2014-12-11 20:42:39 [CLIENT] [SEVERE] Using missing texture, unable to load: projectzulublock:textures/blocks/potion.png
+2014-12-11 20:44:24 [CLIENT] [INFO] [CHAT] [DamageIndicators] Mouseovers enabled.
+2014-12-11 20:44:24 [CLIENT] [INFO] [CHAT] [DamageIndicators] Potion Effects enabled.
+2014-12-11 20:44:24 [CLIENT] [INFO] [CHAT] [DamageIndicators] Popoffs enabled.
+2014-12-11 20:44:24 [CLIENT] [INFO] [CHAT] Version 1.28.37 of the Backpack Mod is now available!
+2014-12-11 20:44:24 [CLIENT] [INFO] [CHAT] Server Handshake complete - Finder Compass Stronghold Needle enabled.
+2014-12-11 20:44:24 [CLIENT] [INFO] [CHAT] Finder Compass Item enabled: false
+2014-12-11 20:44:24 [CLIENT] [INFO] [CHAT] Finder Compass server config loaded; 3 custom Setting-Sets loaded
+2014-12-11 20:44:24 [CLIENT] [INFO] [CHAT] Version 0.9.0.9 of CodeChickenCore is available
+2014-12-11 20:44:24 [CLIENT] [INFO] [CHAT] Version 1.6.1.9 of NotEnoughItems is available
+2014-12-11 20:44:26 [CLIENT] [INFO] [CHAT] Damage Indicators Mod Mod v.2.9.2.3 is up to date.
+2014-12-11 20:44:28 [CLIENT] [INFO] [CHAT] [Nether Ores] A new version is available: 2.2.2
+2014-12-11 20:44:28 [CLIENT] [INFO] [CHAT] Added new ores, more configuration options, renamed textures (sorry resource packs!). Armed ores emit smoke again!
+2014-12-11 20:44:49 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-12-11 20:59:01 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 22988 to go!
+2014-12-11 20:59:01 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 20577 to go!
+2014-12-11 20:59:01 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 18181 to go!
+2014-12-11 20:59:01 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 15712 to go!
+2014-12-11 20:59:01 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 13319 to go!
+2014-12-11 20:59:01 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 10878 to go!
+2014-12-11 20:59:02 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 8486 to go!
+2014-12-11 20:59:02 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 6078 to go!
+2014-12-11 20:59:02 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 3627 to go!
+2014-12-11 20:59:02 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 1209 to go!
+2014-12-11 21:00:49 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 1028 to go!
+2014-12-11 21:10:36 [CLIENT] [INFO] [CHAT] [DamageIndicators] Mouseovers enabled.
+2014-12-11 21:10:36 [CLIENT] [INFO] [CHAT] [DamageIndicators] Potion Effects enabled.
+2014-12-11 21:10:36 [CLIENT] [INFO] [CHAT] [DamageIndicators] Popoffs enabled.
+2014-12-11 21:10:36 [CLIENT] [INFO] [CHAT] Version 1.28.37 of the Backpack Mod is now available!
+2014-12-11 21:10:36 [CLIENT] [INFO] [CHAT] Server Handshake complete - Finder Compass Stronghold Needle enabled.
+2014-12-11 21:10:36 [CLIENT] [INFO] [CHAT] Finder Compass Item enabled: false
+2014-12-11 21:10:36 [CLIENT] [INFO] [CHAT] Finder Compass server config loaded; 3 custom Setting-Sets loaded
+2014-12-11 21:18:28 [CLIENT] [INFO] Stopping!
